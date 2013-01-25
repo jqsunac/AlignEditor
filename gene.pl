@@ -6,8 +6,7 @@ use HTML::Template;
 use lib::DefArgs;
 use lib::Nazuna;
 use Data::Dumper;
-use File::Copy;
-use Bio::SeqIO;
+#use Bio::SeqIO;
 
 require 'lib/common.ph';
 
@@ -59,17 +58,21 @@ if ($action =~ /default/){
 		&update_nazuna($cgi, $fpath, $seq_type);
 	}
 	
-	my $est_io = Bio::SeqIO->new(
-			-file => $fpath->{est},
-			-type => "fasta");
-	my $genome_io = Bio::SeqIO->new(
-			-file => $fpath->{genome},
-			-type => "fasta");
+	#my $est_io = Bio::SeqIO->new(
+	#		-file => $fpath->{est},
+	#		-type => "fasta");
+	#my $genome_io = Bio::SeqIO->new(
+	#		-file => $fpath->{genome},
+	#		-type => "fasta");
+	my $est_fa = &read_fasta($fpath->{est});
+	my $genome_fa = &read_fasta($fpath->{genome});
 	my $nazuna = Nazuna->new(
 			align_file => $fpath->{nazuna},
 			align_format => "nazuna",
-			est_seq => $est_io->next_seq->seq,
-			genome_seq => $genome_io->next_seq->seq);
+	#		est_seq => $est_io->next_seq->seq,
+	#		genome_seq => $genome_io->next_seq->seq);
+			est_seq => $est_fa,
+			genome_seq => $genome_fa);
 
 	$nazuna->align_seq;
 	my $segments = $nazuna->get_alignments($seq_type, $args->seq_limit);
@@ -134,17 +137,21 @@ sub update_nazuna {
 		}
 	}
 
-	my $est_io = Bio::SeqIO->new(
-			-file => $fpath->{est},
-			-type => "fasta");
-	my $genome_io = Bio::SeqIO->new(
-			-file => $fpath->{genome},
-			-type => "fasta");
+	#my $est_io = Bio::SeqIO->new(
+	#		-file => $fpath->{est},
+	#		-type => "fasta");
+	#my $genome_io = Bio::SeqIO->new(
+	#		-file => $fpath->{genome},
+	#		-type => "fasta");
+	my $est_fa = &read_fasta($fpath->{est});
+	my $genome_fa = &read_fasta($fpath->{genome});
 	my $nazuna = Nazuna->new(
 			align_file => $fpath->{nazuna},
 			align_format => "nazuna",
-			est_seq => $est_io->next_seq->seq,
-			genome_seq => $genome_io->next_seq->seq);
+	#		est_seq => $est_io->next_seq->seq,
+	#		genome_seq => $genome_io->next_seq->seq);
+			est_seq => $est_fa,
+			genome_seq => $genome_fa);
 	$nazuna->align_seq;
 	#$nazuna->update_junctions($segs, $args->seq_limit);
 	$nazuna->update_seq($seq_type, $segs, $args->seq_limit);
@@ -165,17 +172,21 @@ sub reset_files {
 	unlink $fpath->{ele} if -e $fpath->{ele};
 	unlink $fpath->{eleseq} if -e $fpath->{eleseq};
 
-	my $est_io = Bio::SeqIO->new(
-			-file => $fpath->{est},
-			-type => "fasta");
-	my $genome_io = Bio::SeqIO->new(
-			-file => $fpath->{genome},
-			-type => "fasta");
+	#my $est_io = Bio::SeqIO->new(
+	#		-file => $fpath->{est},
+	#		-type => "fasta");
+	#my $genome_io = Bio::SeqIO->new(
+	#		-file => $fpath->{genome},
+	#		-type => "fasta");
+	my $est_fa = &read_fasta($fpath->{est});
+	my $genome_fa = &read_fasta($fpath->{genome});
 	my $nazuna = Nazuna->new(
 			align_file => $fpath->{est2genome},
-			align_format => 'est2genome',
-			est_seq => $est_io->next_seq->seq,
-			genome_seq => $genome_io->next_seq->seq);
+			align_format => "est2genome",
+	#		est_seq => $est_io->next_seq->seq,
+	#		genome_seq => $genome_io->next_seq->seq);
+			est_seq => $est_fa,
+			genome_seq => $genome_fa);
 	$nazuna->align_seq;
 	$nazuna->write_seq($fpath->{nazuna});
 }

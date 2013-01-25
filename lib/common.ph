@@ -112,4 +112,21 @@ sub upload_file {
 }
 
 
+=header
+Read fasta file.
+=cut
+sub read_fasta {
+	my $path = shift;
+	my $seq = "";
+	open (my $fh, '<', $path) or die;
+	while (my $buff = <$fh>) {
+		chomp($buff);
+		$seq .= $buff if $buff !~ /^>/;
+	}
+	close($fh);
+	return $seq;
+}
+
+
+
 1;
