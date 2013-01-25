@@ -1,0 +1,134 @@
+Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+Exon       126  95.0  5502  5641 NC_000004.11     1   141 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
++Intron    -20   0.0  5642  6229 NC_000004.11
+Exon       129 100.0  6230  6358 NC_000004.11   142   270 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
++Intron    -20   0.0  6359  9267 NC_000004.11
+Exon       151 100.0  9268  9418 NC_000004.11   271   421 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
++Intron    -20   0.0  9419 10335 NC_000004.11
+Exon        86 100.0 10336 10421 NC_000004.11   422   507 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
++Intron    -20   0.0 10422 10496 NC_000004.11
+Exon        48 100.0 10497 10544 NC_000004.11   508   555 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
++Intron    -20   0.0 10545 11845 NC_000004.11
+Exon        67 100.0 11846 11912 NC_000004.11   556   622 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
++Intron    -20   0.0 11913 12723 NC_000004.11
+Exon        59 100.0 12724 12782 NC_000004.11   623   681 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
++Intron    -20   0.0 12783 16607 NC_000004.11
+Exon       443 100.0 16608 17050 NC_000004.11   682  1124 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+
+Span       969  99.4  5502 17050 NC_000004.11     1  1124 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+
+Segment    130  99.2  5502  5633 NC_000004.11     1   132 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+Segment     -2  37.5  5634  5641 NC_000004.11   134   141 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+Segment    129 100.0  6230  6358 NC_000004.11   142   270 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+Segment    151 100.0  9268  9418 NC_000004.11   271   421 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+Segment     86 100.0 10336 10421 NC_000004.11   422   507 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+Segment     48 100.0 10497 10544 NC_000004.11   508   555 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+Segment     67 100.0 11846 11912 NC_000004.11   556   622 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+Segment     59 100.0 12724 12782 NC_000004.11   623   681 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+Segment    443 100.0 16608 17050 NC_000004.11   682  1124 4             Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) (UCHL1), mRNA.
+
+
+NC_000004.11 vs 4:
+
+NC_000004.11   5502 AGTGCGTCTGGCCGGCGCTTTATAGCTGCAGCCTGGGCGGCTCCGCTAGC   5551
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4      1 AGTGCGTCTGGCCGGCGCTTTATAGCTGCAGCCTGGGCGGCTCCGCTAGC     50
+
+NC_000004.11   5552 TGTTTTTCGTCTTCCCTAGGCTATTTCTGCCGGGCGCTCCGCGAAGATGC   5601
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4     51 TGTTTTTCGTCTTCCCTAGGCTATTTCTGCCGGGCGCTCCGCGAAGATGC    100
+
+NC_000004.11   5602 AGCTCAAGCCGATGGAGATCAACCCCGAGGTG-AGCGCCAGgtgca....   5641
+                    ||||||||||||||||||||||||||||| ||  |  | | >>>>> 588
+           4    101 AGCTCAAGCCGATGGAGATCAACCCCGAGATGCTGAACAAA.........    141
+
+NC_000004.11   5641 .cgcagGTGCTGTCCCGGCTGGGGGTCGCCGGCCAGTGGCGCTTCGTGGA   6273
+                     >>>>>||||||||||||||||||||||||||||||||||||||||||||
+           4    141 ......GTGCTGTCCCGGCTGGGGGTCGCCGGCCAGTGGCGCTTCGTGGA    185
+
+NC_000004.11   6274 CGTGCTGGGGCTGGAAGAGGAGTCTCTGGGCTCGGTGCCAGCGCCTGCCT   6323
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    186 CGTGCTGGGGCTGGAAGAGGAGTCTCTGGGCTCGGTGCCAGCGCCTGCCT    235
+
+NC_000004.11   6324 GCGCGCTGCTGCTGCTGTTTCCCCTCACGGCCCAGgtagg......cgca   6358
+                    |||||||||||||||||||||||||||||||||||>>>>> 2909 >>>>
+           4    236 GCGCGCTGCTGCTGCTGTTTCCCCTCACGGCCCAG...............    270
+
+NC_000004.11   6358 gCATGAGAACTTCAGGAAAAAGCAGATTGAAGAGCTGAAGGGACAAGAAG   9316
+                    >|||||||||||||||||||||||||||||||||||||||||||||||||
+           4    270 .CATGAGAACTTCAGGAAAAAGCAGATTGAAGAGCTGAAGGGACAAGAAG    319
+
+NC_000004.11   9317 TTAGTCCTAAAGTGTACTTCATGAAGCAGACCATTGGGAATTCCTGTGGC   9366
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    320 TTAGTCCTAAAGTGTACTTCATGAAGCAGACCATTGGGAATTCCTGTGGC    369
+
+NC_000004.11   9367 ACAATCGGACTTATTCACGCAGTGGCCAATAATCAAGACAAACTGGGATT   9416
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    370 ACAATCGGACTTATTCACGCAGTGGCCAATAATCAAGACAAACTGGGATT    419
+
+NC_000004.11   9417 TGgtagg.....ttaagAGGATGGATCAGTTCTGAAACAGTTTCTTTCTG  10368
+                    ||>>>>> 917 >>>>>|||||||||||||||||||||||||||||||||
+           4    420 TG...............AGGATGGATCAGTTCTGAAACAGTTTCTTTCTG    454
+
+NC_000004.11  10369 AAACAGAGAAAATGTCCCCTGAAGACAGAGCAAAATGCTTTGAAAAGAAT  10418
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    455 AAACAGAGAAAATGTCCCCTGAAGACAGAGCAAAATGCTTTGAAAAGAAT    504
+
+NC_000004.11  10419 GAGgtaag....cgcagGCCATACAGGCAGCCCATGATGCCGTGGCACAG  10529
+                    |||>>>>> 75 >>>>>|||||||||||||||||||||||||||||||||
+           4    505 GAG..............GCCATACAGGCAGCCCATGATGCCGTGGCACAG    540
+
+NC_000004.11  10530 GAAGGCCAATGTCGGgtaaa......tttagGTAGATGACAAGGTGAATT  11864
+                    |||||||||||||||>>>>> 1301 >>>>>|||||||||||||||||||
+           4    541 GAAGGCCAATGTCGG................GTAGATGACAAGGTGAATT    574
+
+NC_000004.11  11865 TCCATTTTATTCTGTTTAACAACGTGGATGGCCACCTCTATGAACTTGgt  11912
+                    ||||||||||||||||||||||||||||||||||||||||||||||||>>
+           4    575 TCCATTTTATTCTGTTTAACAACGTGGATGGCCACCTCTATGAACTTG..    622
+
+NC_000004.11  11912 atg.....tacagATGGACGAATGCCTTTTCCGGTGAACCATGGCGCCAG  12760
+                    >>> 811 >>>>>|||||||||||||||||||||||||||||||||||||
+           4    622 .............ATGGACGAATGCCTTTTCCGGTGAACCATGGCGCCAG    659
+
+NC_000004.11  12761 TTCAGAGGACACCCTGCTGAAGgtcat......tccagGACGCTGCCAAG  16619
+                    ||||||||||||||||||||||>>>>> 3825 >>>>>||||||||||||
+           4    660 TTCAGAGGACACCCTGCTGAAG................GACGCTGCCAAG    693
+
+NC_000004.11  16620 GTCTGCAGAGAATTCACCGAGCGTGAGCAAGGAGAAGTCCGCTTCTCTGC  16669
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    694 GTCTGCAGAGAATTCACCGAGCGTGAGCAAGGAGAAGTCCGCTTCTCTGC    743
+
+NC_000004.11  16670 CGTGGCTCTCTGCAAGGCAGCCTAATGCTCTGTGGGAGGGACTTTGCTGA  16719
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    744 CGTGGCTCTCTGCAAGGCAGCCTAATGCTCTGTGGGAGGGACTTTGCTGA    793
+
+NC_000004.11  16720 TTTCCCCTCTTCCCTTCAACATGAAAATATATACCCCCCCATGCAGTCTA  16769
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    794 TTTCCCCTCTTCCCTTCAACATGAAAATATATACCCCCCCATGCAGTCTA    843
+
+NC_000004.11  16770 AAATGCTTCAGTACTTGTGAAACACAGCTGTTCTTCTGTTCTGCAGACAC  16819
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    844 AAATGCTTCAGTACTTGTGAAACACAGCTGTTCTTCTGTTCTGCAGACAC    893
+
+NC_000004.11  16820 GCCTTCCCCTCAGCCACACCCAGGCACTTAAGCACAAGCAGAGTGCACAG  16869
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    894 GCCTTCCCCTCAGCCACACCCAGGCACTTAAGCACAAGCAGAGTGCACAG    943
+
+NC_000004.11  16870 CTGTCCACTGGGCCATTGTGGTGTGAGCTTCAGATGGTGAAGCATTCTCC  16919
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    944 CTGTCCACTGGGCCATTGTGGTGTGAGCTTCAGATGGTGAAGCATTCTCC    993
+
+NC_000004.11  16920 CCAGTGTATGTCTTGTATCCGATATCTAACGCTTTAAATGGCTACTTTGG  16969
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4    994 CCAGTGTATGTCTTGTATCCGATATCTAACGCTTTAAATGGCTACTTTGG   1043
+
+NC_000004.11  16970 TTTCTGTCTGTAAGTTAAGACCTTGGATGTGGTTTAATTGTTTGTCCTCA  17019
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           4   1044 TTTCTGTCTGTAAGTTAAGACCTTGGATGTGGTTTAATTGTTTGTCCTCA   1093
+
+NC_000004.11  17020 AAAGGAATAAAACTTTTCTGCTGATAAGATA  17050
+                    |||||||||||||||||||||||||||||||
+           4   1094 AAAGGAATAAAACTTTTCTGCTGATAAGATA   1124
+
+
+Alignment Score: 969

@@ -1,0 +1,324 @@
+Note Best alignment is between reversed est and forward genome, but splice sites imply REVERSED GENE
+Exon      1573 100.0  5502  7074 NC_000002.11    15  1587 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0  7075  7921 NC_000002.11
+Exon       173 100.0  7922  8094 NC_000002.11  1588  1760 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0  8095 13529 NC_000002.11
+Exon        97 100.0 13530 13626 NC_000002.11  1761  1857 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 13627 16447 NC_000002.11
+Exon       109 100.0 16448 16556 NC_000002.11  1858  1966 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 16557 16651 NC_000002.11
+Exon        26 100.0 16652 16677 NC_000002.11  1967  1992 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 16678 17374 NC_000002.11
+Exon        60 100.0 17375 17434 NC_000002.11  1993  2052 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 17435 17509 NC_000002.11
+Exon       178 100.0 17510 17687 NC_000002.11  2053  2230 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 17688 18463 NC_000002.11
+Exon        75 100.0 18464 18538 NC_000002.11  2231  2305 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 18539 27387 NC_000002.11
+Exon       127  94.7 27388 27538 NC_000002.11  2306  2448 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 27539 34887 NC_000002.11
+Exon        64 100.0 34888 34951 NC_000002.11  2449  2512 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 34952 42582 NC_000002.11
+Exon       132 100.0 42583 42714 NC_000002.11  2513  2644 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 42715 72666 NC_000002.11
+Exon       243 100.0 72667 72909 NC_000002.11  2645  2887 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+-Intron    -20   0.0 72910 125598 NC_000002.11
+Exon       339 100.0 125599 125937 NC_000002.11  2888  3226 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+
+Span      2956  99.8  5502 125937 NC_000002.11    15  3226 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+
+Segment   1573 100.0  5502  7074 NC_000002.11    15  1587 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment    173 100.0  7922  8094 NC_000002.11  1588  1760 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment     97 100.0 13530 13626 NC_000002.11  1761  1857 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment    109 100.0 16448 16556 NC_000002.11  1858  1966 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment     26 100.0 16652 16677 NC_000002.11  1967  1992 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment     60 100.0 17375 17434 NC_000002.11  1993  2052 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment    178 100.0 17510 17687 NC_000002.11  2053  2230 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment     75 100.0 18464 18538 NC_000002.11  2231  2305 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment    143 100.0 27396 27538 NC_000002.11  2306  2448 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment     64 100.0 34888 34951 NC_000002.11  2449  2512 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment    132 100.0 42583 42714 NC_000002.11  2513  2644 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment    243 100.0 72667 72909 NC_000002.11  2645  2887 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+Segment    339 100.0 125599 125937 NC_000002.11  2888  3226 2             Homo sapiens ceramide kinase-like (CERKL), transcript variant 1, mRNA.
+
+
+NC_000002.11 vs 2:
+
+NC_000002.11   5502 TTTTCATGAAATGTAAAATATTTTTATAGTTTGTTCATACTATATGAGGT   5551
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2     15 TTTTCATGAAATGTAAAATATTTTTATAGTTTGTTCATACTATATGAGGT     64
+
+NC_000002.11   5552 TCTATTTTAAATGACTTTCTGGATTTTAAAAAATTTCTTTAAATACAATC   5601
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2     65 TCTATTTTAAATGACTTTCTGGATTTTAAAAAATTTCTTTAAATACAATC    114
+
+NC_000002.11   5602 ATTTTTGTAATATTTATTTTATGCTTATGATCTAGATAATTGCAGAATAT   5651
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    115 ATTTTTGTAATATTTATTTTATGCTTATGATCTAGATAATTGCAGAATAT    164
+
+NC_000002.11   5652 CATTTTATCTGACTCTGCCTTCATAAGAGAGCTGTGGCCGAATTTTGAAC   5701
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    165 CATTTTATCTGACTCTGCCTTCATAAGAGAGCTGTGGCCGAATTTTGAAC    214
+
+NC_000002.11   5702 ATCTGTTATAGGGAGTGATCAAATTAGAAGGCAATGTGGAAAAACAATTC   5751
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    215 ATCTGTTATAGGGAGTGATCAAATTAGAAGGCAATGTGGAAAAACAATTC    264
+
+NC_000002.11   5752 TGGGAAAGATTTCTTTATATGAAGTCCCTGCCACTAGCCAGCCATCCTAA   5801
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    265 TGGGAAAGATTTCTTTATATGAAGTCCCTGCCACTAGCCAGCCATCCTAA    314
+
+NC_000002.11   5802 TTGATGAAAGTTATCTGTTCACAGGCCTGCAGTGATGGTGAGGAATGTTC   5851
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    315 TTGATGAAAGTTATCTGTTCACAGGCCTGCAGTGATGGTGAGGAATGTTC    364
+
+NC_000002.11   5852 TGAGATTTGCGAAGGCATTTGAGTAGTGAAATGTAAGCACAAAACCTCCT   5901
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    365 TGAGATTTGCGAAGGCATTTGAGTAGTGAAATGTAAGCACAAAACCTCCT    414
+
+NC_000002.11   5902 GAACCCAGAGTGTGTATACACAGGAATAAACTTTATGACATTTATGTATT   5951
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    415 GAACCCAGAGTGTGTATACACAGGAATAAACTTTATGACATTTATGTATT    464
+
+NC_000002.11   5952 TTTAAAAAACTTTGTATCGTTATAAAAAGGCTAGTCATTCTTTCAGGAGA   6001
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    465 TTTAAAAAACTTTGTATCGTTATAAAAAGGCTAGTCATTCTTTCAGGAGA    514
+
+NC_000002.11   6002 ACATCTAGGATCATAGATGAAAAATCAAGCCCCGATTTAGAACTGTCTTC   6051
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    515 ACATCTAGGATCATAGATGAAAAATCAAGCCCCGATTTAGAACTGTCTTC    564
+
+NC_000002.11   6052 TCCAGGATGGTCTCTAAGGAAATTTACATTTGGTTCTTTCCTACTCAGAA   6101
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    565 TCCAGGATGGTCTCTAAGGAAATTTACATTTGGTTCTTTCCTACTCAGAA    614
+
+NC_000002.11   6102 CTACTCAGAAACAACTATATATTTCAGGTTATCTGAGCACAGTGAAAGCA   6151
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    615 CTACTCAGAAACAACTATATATTTCAGGTTATCTGAGCACAGTGAAAGCA    664
+
+NC_000002.11   6152 GAGTACTATGGTTGTCCAACACAGGCCTCTCAGATACAAGGGGAACACAA   6201
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    665 GAGTACTATGGTTGTCCAACACAGGCCTCTCAGATACAAGGGGAACACAA    714
+
+NC_000002.11   6202 TTACATATTGGGCTAGATTTTGCCCAGTTCAAAATAGTATTTGTTATCAA   6251
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    715 TTACATATTGGGCTAGATTTTGCCCAGTTCAAAATAGTATTTGTTATCAA    764
+
+NC_000002.11   6252 CTTACTTTGTTACTTGTATCATGAATTTTAAAACCCTACCACTTTAAGAA   6301
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    765 CTTACTTTGTTACTTGTATCATGAATTTTAAAACCCTACCACTTTAAGAA    814
+
+NC_000002.11   6302 GACAGGGATGGGTTATTCTTTTTTGGCAGGTAGGCTATATAACTATGTGA   6351
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    815 GACAGGGATGGGTTATTCTTTTTTGGCAGGTAGGCTATATAACTATGTGA    864
+
+NC_000002.11   6352 TTTTGAAATTTAACTGCTCTGGATTAGGGAGCAGTGAATCAAGGCAGACT   6401
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    865 TTTTGAAATTTAACTGCTCTGGATTAGGGAGCAGTGAATCAAGGCAGACT    914
+
+NC_000002.11   6402 TATGAAATCTGTATTATATTTGTAACAGAATATAGGAAATTTAACATAAT   6451
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    915 TATGAAATCTGTATTATATTTGTAACAGAATATAGGAAATTTAACATAAT    964
+
+NC_000002.11   6452 TGATGAGCTCAAATCCTGAAAAATGAAAGAATCCAAATTATTTCAGAATT   6501
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2    965 TGATGAGCTCAAATCCTGAAAAATGAAAGAATCCAAATTATTTCAGAATT   1014
+
+NC_000002.11   6502 ATCTAGGTTAAATATTGATGTATTATGATGGTTGCAAAGTTTTTTTGTGT   6551
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1015 ATCTAGGTTAAATATTGATGTATTATGATGGTTGCAAAGTTTTTTTGTGT   1064
+
+NC_000002.11   6552 GTCCAATAAACACATTGTAAAAAAAAGAATTTGAATTGATATCTAAAAAC   6601
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1065 GTCCAATAAACACATTGTAAAAAAAAGAATTTGAATTGATATCTAAAAAC   1114
+
+NC_000002.11   6602 AGAATTTGAATTGATATTTCATCTTGACTTTTAAAGCCCTAGAGGCTAAT   6651
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1115 AGAATTTGAATTGATATTTCATCTTGACTTTTAAAGCCCTAGAGGCTAAT   1164
+
+NC_000002.11   6652 TGTTAGTAACATCAATTTCTATTAGGATATCCGTTTGGCCACACAGCAGG   6701
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1165 TGTTAGTAACATCAATTTCTATTAGGATATCCGTTTGGCCACACAGCAGG   1214
+
+NC_000002.11   6702 AGGTTAGAGCAATGGAGCATTACTGAGTTCCTCCCCCTGTCAGATCAGCA   6751
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1215 AGGTTAGAGCAATGGAGCATTACTGAGTTCCTCCCCCTGTCAGATCAGCA   1264
+
+NC_000002.11   6752 GCAGCATTAGATTCTCATAGAAGTGCGAACCATATGGTGAACTGGTATGT   6801
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1265 GCAGCATTAGATTCTCATAGAAGTGCGAACCATATGGTGAACTGGTATGT   1314
+
+NC_000002.11   6802 GAGGGATCTAGAGTGCCATGTTCCTCAAGAGAATCTAATGCCTGATGATC   6851
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1315 GAGGGATCTAGAGTGCCATGTTCCTCAAGAGAATCTAATGCCTGATGATC   1364
+
+NC_000002.11   6852 TGAGGTGGAACAGTTCATCCTGAAACCATTCCCCCATCCACGGAAAAATT   6901
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1365 TGAGGTGGAACAGTTCATCCTGAAACCATTCCCCCATCCACGGAAAAATT   1414
+
+NC_000002.11   6902 GTCTTCCATGAAACTGGTCCCAAAAAGGGTGGGGACCACAGGTTTAAAGC   6951
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1415 GTCTTCCATGAAACTGGTCCCAAAAAGGGTGGGGACCACAGGTTTAAAGC   1464
+
+NC_000002.11   6952 ATGGCCACATTTCTTTATATTAAAATTCTAGTTTGTACATTTCTTTTAGA   7001
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1465 ATGGCCACATTTCTTTATATTAAAATTCTAGTTTGTACATTTCTTTTAGA   1514
+
+NC_000002.11   7002 AACAATTACATGTTACTTTGGAATCATTTCTTCCATGCTTCCTCCATAAA   7051
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1515 AACAATTACATGTTACTTTGGAATCATTTCTTCCATGCTTCCTCCATAAA   1564
+
+NC_000002.11   7052 GACTGATAAGTCTTGGATGCAATctgta.....cttacCTAATATGGACC   7933
+                    |||||||||||||||||||||||<<<<< 847 <<<<<||||||||||||
+           2   1565 GACTGATAAGTCTTGGATGCAAT...............CTAATATGGACC   1599
+
+NC_000002.11   7934 TCTGATGCAACTTCCATTAAGTCACCATCTACATTCCAAGGGAAACAATT   7983
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1600 TCTGATGCAACTTCCATTAAGTCACCATCTACATTCCAAGGGAAACAATT   1649
+
+NC_000002.11   7984 TTCTGAAGCAGTTTCATCCTCCTCCTCCTCTGGATTATATCCACCAGTAT   8033
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1650 TTCTGAAGCAGTTTCATCCTCCTCCTCCTCTGGATTATATCCACCAGTAT   1699
+
+NC_000002.11   8034 TATTCCTTGGATGAACTTTTACTTCCTCAACAGTGTAAGTCTCAACAAAT   8083
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1700 TATTCCTTGGATGAACTTTTACTTCCTCAACAGTGTAAGTCTCAACAAAT   1749
+
+NC_000002.11   8084 GGAAAATTGAActaaa......tatacCTGATTTTTTACACTGGCATATC  13552
+                    |||||||||||<<<<< 5435 <<<<<|||||||||||||||||||||||
+           2   1750 GGAAAATTGAA................CTGATTTTTTACACTGGCATATC   1783
+
+NC_000002.11  13553 TTTTCAGGTGTTTTATAAATTCTGGCCGAGAAGTGTTTCGGGCAATTATA  13602
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1784 TTTTCAGGTGTTTTATAAATTCTGGCCGAGAAGTGTTTCGGGCAATTATA   1833
+
+NC_000002.11  13603 AGAGCCATACTTCCATTATTTAATctgaa......ctaacCTGGTATTAG  16457
+                    ||||||||||||||||||||||||<<<<< 2821 <<<<<||||||||||
+           2   1834 AGAGCCATACTTCCATTATTTAAT................CTGGTATTAG   1867
+
+NC_000002.11  16458 GTGCCAAGCCTCTAGGTGCCACTGAACACAGGCAAGGAATTGCCATAATG  16507
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   1868 GTGCCAAGCCTCTAGGTGCCACTGAACACAGGCAAGGAATTGCCATAATG   1917
+
+NC_000002.11  16508 CTGACATTCAAGAACTGACCCTGGATCATTTGCCATTGATCATTACAGTc  16556
+                    |||||||||||||||||||||||||||||||||||||||||||||||||<
+           2   1918 CTGACATTCAAGAACTGACCCTGGATCATTTGCCATTGATCATTACAGT.   1966
+
+NC_000002.11  16556 taaa....ctcacCAGATTTGGGAGATCCCTGTGCCCTCctaaa.....c  16677
+                    <<<< 95 <<<<<||||||||||||||||||||||||||<<<<< 697 <
+           2   1966 .............CAGATTTGGGAGATCCCTGTGCCCTC...........   1992
+
+NC_000002.11  16677 ctacCTTTCTTGCACATCATCAGAGCTGTTAAATGGTAAAAATGATATTT  17420
+                    <<<<||||||||||||||||||||||||||||||||||||||||||||||
+           2   1992 ....CTTTCTTGCACATCATCAGAGCTGTTAAATGGTAAAAATGATATTT   2038
+
+NC_000002.11  17421 CACAGTCTTCTGCCctaaa....cttacTTAAGTTTTGCCAGTGCCTTAA  17531
+                    ||||||||||||||<<<<< 75 <<<<<||||||||||||||||||||||
+           2   2039 CACAGTCTTCTGCC..............TTAAGTTTTGCCAGTGCCTTAA   2074
+
+NC_000002.11  17532 CAACAGCAAAATCTCTCCGTTGGTTAGGGGACATCCATCGATATTTTTCT  17581
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2075 CAACAGCAAAATCTCTCCGTTGGTTAGGGGACATCCATCGATATTTTTCT   2124
+
+NC_000002.11  17582 GCCAGAGCCAAAGTTCTTCCACCAAAGCCAAACATGGCTGAGAACCCAAA  17631
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2125 GCCAGAGCCAAAGTTCTTCCACCAAAGCCAAACATGGCTGAGAACCCAAA   2174
+
+NC_000002.11  17632 GCGAAGAAGCTTGCCAGCGGTGCTGAAGGTGCAGACGTCGACCAGCTGTA  17681
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2175 GCGAAGAAGCTTGCCAGCGGTGCTGAAGGTGCAGACGTCGACCAGCTGTA   2224
+
+NC_000002.11  17682 CATGCCcttga.....cttacCCATTATAATGTGCAATGTTGCAGTTATC  18492
+                    ||||||<<<<< 776 <<<<<|||||||||||||||||||||||||||||
+           2   2225 CATGCC...............CCATTATAATGTGCAATGTTGCAGTTATC   2259
+
+NC_000002.11  18493 ACATGAGGAACTCCATGAAGAGAATGTGCCAATACATTGGTAGATCctgc  18538
+                    ||||||||||||||||||||||||||||||||||||||||||||||<<<<
+           2   2260 ACATGAGGAACTCCATGAAGAGAATGTGCCAATACATTGGTAGATC....   2305
+
+NC_000002.11  18538 c......gccacTCCCTTGCCTGCTGGTATTAAGCCAAGTGGAAGCTGTG  27425
+                    < 8849 <<<<<        ||||||||||||||||||||||||||||||
+           2   2305 ............--------CTGCTGGTATTAAGCCAAGTGGAAGCTGTG   2335
+
+NC_000002.11  27426 CTCTGACAGGAGTCAGGATTCGGTCTGTTTCCATCCCAGCATTCTTCTGA  27475
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2336 CTCTGACAGGAGTCAGGATTCGGTCTGTTTCCATCCCAGCATTCTTCTGA   2385
+
+NC_000002.11  27476 GCTCTCAGAAGCAAAGCATGGGCTACTTCGCTAGCAGATCCATCTCCACC  27525
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2386 GCTCTCAGAAGCAAAGCATGGGCTACTTCGCTAGCAGATCCATCTCCACC   2435
+
+NC_000002.11  27526 AACACAGACAACActaga......cctacCCATCAAATCCCTGGAGTTCA  34908
+                    |||||||||||||<<<<< 7349 <<<<<|||||||||||||||||||||
+           2   2436 AACACAGACAACA................CCATCAAATCCCTGGAGTTCA   2469
+
+NC_000002.11  34909 CATTCCTTAAGCAGTGACAGAGCGTGCCCTTCATATTCCATTActatt..  34951
+                    |||||||||||||||||||||||||||||||||||||||||||<<<<< 7
+           2   2470 CATTCCTTAAGCAGTGACAGAGCGTGCCCTTCATATTCCATTA.......   2512
+
+NC_000002.11  34951 ....cttacTTGTTACATCAGTTTTTATTCCTGCAAGCTTCAACAGAGGT  42623
+                    631 <<<<<|||||||||||||||||||||||||||||||||||||||||
+           2   2512 .........TTGTTACATCAGTTTTTATTCCTGCAAGCTTCAACAGAGGT   2553
+
+NC_000002.11  42624 TCAACCTTCTCATAATAAACCTGGGTAGCTTCTTTTTTGTGACTTTGGGG  42673
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2554 TCAACCTTCTCATAATAAACCTGGGTAGCTTCTTTTTTGTGACTTTGGGG   2603
+
+NC_000002.11  42674 GTTAAGGAGTATTTTTAATGACTTCGGTCTGTTTGGAAAGCctaag....  42714
+                    |||||||||||||||||||||||||||||||||||||||||<<<<< 299
+           2   2604 GTTAAGGAGTATTTTTAATGACTTCGGTCTGTTTGGAAAGC.........   2644
+
+NC_000002.11  42714 ...cttacCTGCCAATATTTTCTTGAACTGTCTAAACCATATGTCACAGT  72708
+                    52 <<<<<||||||||||||||||||||||||||||||||||||||||||
+           2   2644 ........CTGCCAATATTTTCTTGAACTGTCTAAACCATATGTCACAGT   2686
+
+NC_000002.11  72709 GGTCTTCACTTAAATTAATAAGATCAAGTGTAGAATTCTTTAGTTTATTT  72758
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2687 GGTCTTCACTTAAATTAATAAGATCAAGTGTAGAATTCTTTAGTTTATTT   2736
+
+NC_000002.11  72759 TGTTCCTTTTTCAAGCAGATGAAGAGTGTGATACCTAATAAAGTACCACT  72808
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2737 TGTTCCTTTTTCAAGCAGATGAAGAGTGTGATACCTAATAAAGTACCACT   2786
+
+NC_000002.11  72809 TCTCTGCTGTTTAACAGAACAACGCCGTTTCAGTTTCACAGAGAATATGT  72858
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2787 TCTCTGCTGTTTAACAGAACAACGCCGTTTCAGTTTCACAGAGAATATGT   2836
+
+NC_000002.11  72859 CTTTGAGTTCAATAAATTCTTCTTTACATAGCAAGTCATACTTAGAATCA  72908
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2837 CTTTGAGTTCAATAAATTCTTCTTTACATAGCAAGTCATACTTAGAATCA   2886
+
+NC_000002.11  72909 Cctgaa.......ctcacCCGCCGGGCGCTCGGGCTGAATGGGCCGCCAC 125630
+                    |<<<<< 52689 <<<<<||||||||||||||||||||||||||||||||
+           2   2887 C.................CCGCCGGGCGCTCGGGCTGAATGGGCCGCCAC   2919
+
+NC_000002.11 125631 CGCAGTGCTCGCTCGCTCAGCACCACGTCACAACTGTCCCTCCCGATCTC 125680
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2920 CGCAGTGCTCGCTCGCTCAGCACCACGTCACAACTGTCCCTCCCGATCTC   2969
+
+NC_000002.11 125681 GAAGATGCCCCGGAGCAGAATCCGCTCGGCCGCCGCCTCCGTCTGCTGCG 125730
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   2970 GAAGATGCCCCGGAGCAGAATCCGCTCGGCCGCCGCCTCCGTCTGCTGCG   3019
+
+NC_000002.11 125731 GGGACGTTAACAGCGCCGGAGGCACAGCGGCAGCCTCCGGGGGCGCCTCT 125780
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   3020 GGGACGTTAACAGCGCCGGAGGCACAGCGGCAGCCTCCGGGGGCGCCTCT   3069
+
+NC_000002.11 125781 TCCTCCCGGCCGCCCTCCAGGGCACTCACCCGGTTCCTGCGCCTCCTCCA 125830
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   3070 TCCTCCCGGCCGCCCTCCAGGGCACTCACCCGGTTCCTGCGCCTCCTCCA   3119
+
+NC_000002.11 125831 GGGCATGGCGGAGTCGCAGGCTGGGCCCGAGCCAGGGGTCCGGGGAGGCC 125880
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   3120 GGGCATGGCGGAGTCGCAGGCTGGGCCCGAGCCAGGGGTCCGGGGAGGCC   3169
+
+NC_000002.11 125881 TTTGGAGAAGGAGGTGGAGGGCGCGGCAGCCCCAGCTCTAGCCGCGTCCA 125930
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+           2   3170 TTTGGAGAAGGAGGTGGAGGGCGCGGCAGCCCCAGCTCTAGCCGCGTCCA   3219
+
+NC_000002.11 125931 GCGCTGC 125937
+                    |||||||
+           2   3220 GCGCTGC   3226
+
+
+Alignment Score: 2956

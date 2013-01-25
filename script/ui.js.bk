@@ -1,0 +1,130 @@
+$(function(){
+
+/**
+ * 
+ * Control for editing aligment with Mouse.
+ * Delete gaps hovered by mouse.
+ * Insert gaps to forward where hovered by mouse.
+ * 
+ * jQuery + plugins
+ */
+$("input").click(function(){
+	var fieldId = $(this).attr("id");
+	var editingStr = $('#' + fieldId).getSelection();
+
+	//Insert gaps.
+	if(editingStr.match(/[a-zA-Z]/)) {
+		for(var i = 0; i < editingStr.length; i++){
+			$("#" + fieldId).insertBeforeSelection("-");
+		}
+	}
+	//Delete gaps.
+	else {
+		$("#" + fieldId).replaceSelection("");
+	}
+
+});
+
+/**
+ *
+ * Control for editing aligmnet with Keybord.
+ * Only allow to insert/delete gaps.
+ *
+ * keyCode: 109  -
+ *          189  -
+ */
+$("input").keydown(function(e){
+	var fieldId = $(this).attr("id");
+	var keyCode = e.which || e.keyCode;
+
+
+
+	if (keyCode == 37 || keyCode == 39) {
+		
+		return true; // arrows
+	} else if (keyCode == 109 || keyCode == 189) {
+		return true; // gaps
+	} else if (keyCode == 46 || keyCode == 8) {
+		//Delete gaps.
+		var value = $("#" + fieldId).attr("value");
+		var range = $("#" + fieldId).getCaretPos();
+		var delChar;
+		if (keyCode == 8) { //Backspace key
+			delChar = value.charAt(range.start - 1 , 1);
+		} else if (keyCode == 46) { //Delete key
+			delChar = value.charAt(range.start , 1);
+		}
+		if (delChar.match(/[a-zA-Z]/)) return false;
+		return true;
+	} else if (keyCode == 32) {
+		var value = $("#" + fieldId).attr("value");
+		var range = $("#" + fieldId).getCaretPos();
+		var leftChar = value.charAt(range.start - 1 , 1);
+		var rightChar = value.charAt(range.start , 1);
+		if (leftChar == " ") return true;
+		if (rightChar == " ") return true;
+	}
+
+	//Deny other input.
+	return false;
+});
+
+
+
+
+
+/**
+ * 
+ * Animation for scroll page.
+ * 
+ */
+$("a[href^=#]").click(function(){
+	var hash = $(this.hash);
+	var offset = $(hash).offset().top;
+	$("html,body").animate({
+		scrollTop: offset
+	}, 1000);
+	return false;
+});
+
+
+/**
+ * 
+ * Fadeout description Areas.
+ * 
+ * 
+ */
+$(".button").hover(
+	function(){
+		var buttonId = $(this).attr("value");
+		$("#" + buttonId + "_desc:not(:animated)")
+			.slideDown("slow");
+	} , 
+	function(){
+		var buttonId = $(this).attr("value");
+		$("#" + buttonId + "_desc")
+			.slideUp("slow");
+	}
+);
+
+
+/**
+ * 
+ * Switches tabs.
+ * 
+ */
+$("#tabs").tabs({
+	event: "mouseover"
+});
+
+
+
+
+
+/**
+ * Finished jquery.
+ */
+});
+
+
+

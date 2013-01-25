@@ -1,0 +1,296 @@
+LOCUS       NM_201548               3226 bp    mRNA    linear   PRI 24-DEC-2011
+DEFINITION  Homo sapiens ceramide kinase-like (CERKL), transcript variant 1,
+            mRNA.
+ACCESSION   NM_201548
+VERSION     NM_201548.4  GI:237757354
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3226)
+  AUTHORS   Garanto,A., Riera,M., Pomares,E., Permanyer,J., de Castro-Miro,M.,
+            Sava,F., Abril,J.F., Marfany,G. and Gonzalez-Duarte,R.
+  TITLE     High transcriptional complexity of the retinitis pigmentosa CERKL
+            gene in human and mouse
+  JOURNAL   Invest. Ophthalmol. Vis. Sci. 52 (8), 5202-5214 (2011)
+   PUBMED   21508105
+  REMARK    GeneRIF: An unexpected multiplicity of CERKL transcriptional start
+            sites (four in each species) plus a high variety of alternative
+            splicing events primarily affecting the 5' half of the gene
+            generate >20 fully validated mRNA isoforms in human and 23 in
+            mouse. Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 3226)
+  AUTHORS   Booij,J.C., Bakker,A., Kulumbetova,J., Moutaoukil,Y., Smeets,B.,
+            Verheij,J., Kroes,H.Y., Klaver,C.C., van Schooneveld,M.,
+            Bergen,A.A. and Florijn,R.J.
+  TITLE     Simultaneous mutation detection in 90 retinal disease genes in
+            multiple patients using a custom-designed 300-kb retinal
+            resequencing chip
+  JOURNAL   Ophthalmology 118 (1), 160-167 (2011)
+   PUBMED   20801516
+  REMARK    GeneRIF: Observational study of genetic testing. (HuGE Navigator)
+REFERENCE   3  (bases 1 to 3226)
+  AUTHORS   Clark,G.R., Crowe,P., Muszynska,D., O'Prey,D., O'Neill,J.,
+            Alexander,S., Willoughby,C.E., McKay,G.J., Silvestri,G. and
+            Simpson,D.A.
+  TITLE     Development of a diagnostic genetic test for simplex and autosomal
+            recessive retinitis pigmentosa
+  JOURNAL   Ophthalmology 117 (11), 2169-2177 (2010)
+   PUBMED   20591486
+  REMARK    GeneRIF: Observational study of genetic testing. (HuGE Navigator)
+REFERENCE   4  (bases 1 to 3226)
+  AUTHORS   Shimada,M., Miyagawa,T., Kawashima,M., Tanaka,S., Honda,Y.,
+            Honda,M. and Tokunaga,K.
+  TITLE     An approach based on a genome-wide association study reveals
+            candidate loci for narcolepsy
+  JOURNAL   Hum. Genet. 128 (4), 433-441 (2010)
+   PUBMED   20677014
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   5  (bases 1 to 3226)
+  AUTHORS   Bailey,S.D., Xie,C., Do,R., Montpetit,A., Diaz,R., Mohan,V.,
+            Keavney,B., Yusuf,S., Gerstein,H.C., Engert,J.C. and Anand,S.
+  CONSRTM   DREAM investigators
+  TITLE     Variation at the NFATC2 locus increases the risk of
+            thiazolidinedione-induced edema in the Diabetes REduction
+            Assessment with ramipril and rosiglitazone Medication (DREAM)
+            study
+  JOURNAL   Diabetes Care 33 (10), 2250-2253 (2010)
+   PUBMED   20628086
+  REMARK    GeneRIF: Observational study of gene-disease association,
+            gene-environment interaction, and pharmacogenomic / toxicogenomic.
+            (HuGE Navigator)
+REFERENCE   6  (bases 1 to 3226)
+  AUTHORS   Inagaki,Y., Mitsutake,S. and Igarashi,Y.
+  TITLE     Identification of a nuclear localization signal in the retinitis
+            pigmentosa-mutated RP26 protein, ceramide kinase-like protein
+  JOURNAL   Biochem. Biophys. Res. Commun. 343 (3), 982-987 (2006)
+   PUBMED   16581028
+  REMARK    GeneRIF: Identification of a nuclear localization signal that
+            might be responsible for nucleolar retention of CERKL.
+REFERENCE   7  (bases 1 to 3226)
+  AUTHORS   Bornancin,F., Mechtcheriakova,D., Stora,S., Graf,C., Wlachos,A.,
+            Devay,P., Urtz,N., Baumruker,T. and Billich,A.
+  TITLE     Characterization of a ceramide kinase-like protein
+  JOURNAL   Biochim. Biophys. Acta 1687 (1-3), 31-43 (2005)
+   PUBMED   15708351
+  REMARK    GeneRIF: Data suggest a functional link between CERKL, a new
+            ceramide kinase homolog, and its nucleolar localization.
+REFERENCE   8  (bases 1 to 3226)
+  AUTHORS   Tuson,M., Marfany,G. and Gonzalez-Duarte,R.
+  TITLE     Mutation of CERKL, a novel human ceramide kinase gene, causes
+            autosomal recessive retinitis pigmentosa (RP26)
+  JOURNAL   Am. J. Hum. Genet. 74 (1), 128-138 (2004)
+   PUBMED   14681825
+  REMARK    GeneRIF: Novel mutation in CERKL which encompassed 13 exons is
+            identified in retinitis pigmentosa
+REFERENCE   9  (bases 1 to 3226)
+  AUTHORS   Sugiura,M., Kono,K., Liu,H., Shimizugawa,T., Minekura,H.,
+            Spiegel,S. and Kohama,T.
+  TITLE     Ceramide kinase, a novel lipid kinase. Molecular cloning and
+            functional characterization
+  JOURNAL   J. Biol. Chem. 277 (26), 23294-23300 (2002)
+   PUBMED   11956206
+REFERENCE   10  (bases 1 to 3226)
+  AUTHORS   Bayes,M., Goldaracena,B., Martinez-Mir,A., Iragui-Madoz,M.I.,
+            Solans,T., Chivelet,P., Bussaglia,E., Ramos-Arroyo,M.A.,
+            Baiget,M., Vilageliu,L., Balcells,S., Gonzalez-Duarte,R. and
+            Grinberg,D.
+  TITLE     A new autosomal recessive retinitis pigmentosa locus maps on
+            chromosome 2q31-q33
+  JOURNAL   J. Med. Genet. 35 (2), 141-145 (1998)
+   PUBMED   9507394
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK293844.1, BC137498.1,
+            AY690329.1, AC020595.7 and BM969366.1. On May 19, 2009 this
+            sequence version replaced gi:65301113. Publication Note: This
+            RefSeq record includes a subset of the publications that are
+            available for this gene. Please see the Gene record to access
+            additional publications. Summary: This gene was initially
+            identified as a locus (RP26) associated with an autosomal
+            recessive form of retinitis pigmentosa (arRP) disease. This gene
+            encodes a protein with ceramide kinase-like domains, however, the
+            protein does not phosphorylate ceramide and its target substrate
+            is currently unknown. This protein may be a negative regulator of
+            apoptosis in photoreceptor cells. Mutations in this gene cause a
+            form of retinitis pigmentosa characterized by autosomal recessive
+            cone and rod dystrophy (arCRD). Alternative splicing of this gene
+            results in multiple transcript variants encoding different
+            isoforms and non-coding transcripts.[provided by RefSeq, May
+            2010]. Transcript Variant: This variant (1) lacks one alternate
+            in-frame exon in the central coding region, compared to variant 2.
+            The resulting isoform (1) lacks an internal segment, compared to
+            isoform 2. Sequence Note: This RefSeq record was created from
+            transcript and genomic sequence data to make the sequence
+            consistent with the reference genome assembly. The genomic
+            coordinates used for the transcript record were based on
+            transcript alignments. COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3226
+                     /mol_type="mRNA"
+                     /map="2q31.3"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /organism="Homo sapiens"
+     gene            1..3226
+                     /db_xref="GeneID:375298"
+                     /db_xref="HGNC:21699"
+                     /db_xref="HPRD:09757"
+                     /db_xref="MIM:608381"
+                     /gene_synonym="RP26"
+                     /gene="CERKL"
+                     /note="ceramide kinase-like"
+     exon            1..339
+                     /gene_synonym="RP26"
+                     /number=1
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     misc_feature    18..20
+                     /gene_synonym="RP26"
+                     /gene="CERKL"
+                     /note="upstream in-frame stop codon"
+     CDS             102..1700
+                     /gene_synonym="RP26"
+                     /protein_id="NP_963842.1"
+                     /gene="CERKL"
+                     /note="isoform 1 is encoded by transcript variant 1"
+                     /db_xref="GI:41680688"
+                     /db_xref="CCDS:CCDS46466.1"
+                     /db_xref="GeneID:375298"
+                     /db_xref="HGNC:21699"
+                     /db_xref="HPRD:09757"
+                     /db_xref="MIM:608381"
+                     /codon_start=1
+                     /product="ceramide kinase-like protein isoform 1"
+                     /translation="MPWRRRRNRVSALEGGREEEAPPEAAAVPPALLTSPQQTEAAAE
+                     RILLRGIFEIGRDSCDVVLSERALRWRPIQPERPAGDSKYDLLCKEEFIELKDIFSVK
+                     LKRRCSVKQQRSGTLLGITLFICLKKEQNKLKNSTLDLINLSEDHCDIWFRQFKKILA
+                     GFPNRPKSLKILLNPQSHKKEATQVYYEKVEPLLKLAGIKTDVTIMEYEGHALSLLKE
+                     CELQGFDGVVCVGGDGSASEVAHALLLRAQKNAGMETDRILTPVRAQLPLGLIPAGST
+                     NVLAHSLHGVPHVITATLHIIMGHVQLVDVCTFSTAGKLLRFGFSAMFGFGGRTLALA
+                     EKYRWMSPNQRRDFAVVKALAKLKAEDCEISFLPFNSSDDVQERRAQGSPKSDCNDQW
+                     QMIQGQFLNVSIMAIPCLCSVAPRGLAPNTRLNNGSMALIIARNTSRPEFIKHLKRYA
+                     SVKNQFNFPFVETYTVEEVKVHPRNNTGGYNPEEEEDETASENCFPWNVDGDLMEVAS
+                     EVHIRLHPRLISLYGGSMEEMIPK"
+     STS             102..1700
+                     /db_xref="UniSTS:482739"
+                     /gene_synonym="RP26"
+                     /gene="CERKL"
+     exon            340..582
+                     /gene_synonym="RP26"
+                     /number=2
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            583..714
+                     /gene_synonym="RP26"
+                     /number=3
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            715..778
+                     /gene_synonym="RP26"
+                     /number=4
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            779..921
+                     /gene_synonym="RP26"
+                     /number=6
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            922..996
+                     /gene_synonym="RP26"
+                     /number=7
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            997..1174
+                     /gene_synonym="RP26"
+                     /number=8
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            1175..1234
+                     /gene_synonym="RP26"
+                     /number=9
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            1235..1260
+                     /gene_synonym="RP26"
+                     /number=10
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            1261..1369
+                     /gene_synonym="RP26"
+                     /number=11
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            1370..1466
+                     /gene_synonym="RP26"
+                     /number=12
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            1467..1639
+                     /gene_synonym="RP26"
+                     /number=13
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+     exon            1640..3212
+                     /gene_synonym="RP26"
+                     /number=14
+                     /inference="alignment:Splign:1.39.8"
+                     /gene="CERKL"
+ORIGIN      
+        1 gcagcgctgg acgcggctag agctggggct gccgcgccct ccacctcctt ctccaaaggc
+       61 ctccccggac ccctggctcg ggcccagcct gcgactccgc catgccctgg aggaggcgca
+      121 ggaaccgggt gagtgccctg gagggcggcc gggaggaaga ggcgcccccg gaggctgccg
+      181 ctgtgcctcc ggcgctgtta acgtccccgc agcagacgga ggcggcggcc gagcggattc
+      241 tgctccgggg catcttcgag atcgggaggg acagttgtga cgtggtgctg agcgagcgag
+      301 cactgcggtg gcggcccatt cagcccgagc gcccggcggg tgattctaag tatgacttgc
+      361 tatgtaaaga agaatttatt gaactcaaag acatattctc tgtgaaactg aaacggcgtt
+      421 gttctgttaa acagcagaga agtggtactt tattaggtat cacactcttc atctgcttga
+      481 aaaaggaaca aaataaacta aagaattcta cacttgatct tattaattta agtgaagacc
+      541 actgtgacat atggtttaga cagttcaaga aaatattggc aggctttcca aacagaccga
+      601 agtcattaaa aatactcctt aacccccaaa gtcacaaaaa agaagctacc caggtttatt
+      661 atgagaaggt tgaacctctg ttgaagcttg caggaataaa aactgatgta acaataatgg
+      721 aatatgaagg gcacgctctg tcactgctta aggaatgtga actccaggga tttgatggtg
+      781 ttgtctgtgt tggtggagat ggatctgcta gcgaagtagc ccatgctttg cttctgagag
+      841 ctcagaagaa tgctgggatg gaaacagacc gaatcctgac tcctgtcaga gcacagcttc
+      901 cacttggctt aataccagca ggatctacca atgtattggc acattctctt catggagttc
+      961 ctcatgtgat aactgcaaca ttgcacatta taatggggca tgtacagctg gtcgacgtct
+     1021 gcaccttcag caccgctggc aagcttcttc gctttgggtt ctcagccatg tttggctttg
+     1081 gtggaagaac tttggctctg gcagaaaaat atcgatggat gtcccctaac caacggagag
+     1141 attttgctgt tgttaaggca ctggcaaaac ttaaggcaga agactgtgaa atatcatttt
+     1201 taccatttaa cagctctgat gatgtgcaag aaaggagggc acagggatct cccaaatctg
+     1261 actgtaatga tcaatggcaa atgatccagg gtcagttctt gaatgtcagc attatggcaa
+     1321 ttccttgcct gtgttcagtg gcacctagag gcttggcacc taataccaga ttaaataatg
+     1381 gaagtatggc tcttataatt gcccgaaaca cttctcggcc agaatttata aaacacctga
+     1441 aaagatatgc cagtgtaaaa aatcagttca attttccatt tgttgagact tacactgttg
+     1501 aggaagtaaa agttcatcca aggaataata ctggtggata taatccagag gaggaggagg
+     1561 atgaaactgc ttcagaaaat tgtttccctt ggaatgtaga tggtgactta atggaagttg
+     1621 catcagaggt ccatattaga ttgcatccaa gacttatcag tctttatgga ggaagcatgg
+     1681 aagaaatgat tccaaagtaa catgtaattg tttctaaaag aaatgtacaa actagaattt
+     1741 taatataaag aaatgtggcc atgctttaaa cctgtggtcc ccaccctttt tgggaccagt
+     1801 ttcatggaag acaatttttc cgtggatggg ggaatggttt caggatgaac tgttccacct
+     1861 cagatcatca ggcattagat tctcttgagg aacatggcac tctagatccc tcacatacca
+     1921 gttcaccata tggttcgcac ttctatgaga atctaatgct gctgctgatc tgacaggggg
+     1981 aggaactcag taatgctcca ttgctctaac ctcctgctgt gtggccaaac ggatatccta
+     2041 atagaaattg atgttactaa caattagcct ctagggcttt aaaagtcaag atgaaatatc
+     2101 aattcaaatt ctgtttttag atatcaattc aaattctttt ttttacaatg tgtttattgg
+     2161 acacacaaaa aaactttgca accatcataa tacatcaata tttaacctag ataattctga
+     2221 aataatttgg attctttcat ttttcaggat ttgagctcat caattatgtt aaatttccta
+     2281 tattctgtta caaatataat acagatttca taagtctgcc ttgattcact gctccctaat
+     2341 ccagagcagt taaatttcaa aatcacatag ttatatagcc tacctgccaa aaaagaataa
+     2401 cccatccctg tcttcttaaa gtggtagggt tttaaaattc atgatacaag taacaaagta
+     2461 agttgataac aaatactatt ttgaactggg caaaatctag cccaatatgt aattgtgttc
+     2521 cccttgtatc tgagaggcct gtgttggaca accatagtac tctgctttca ctgtgctcag
+     2581 ataacctgaa atatatagtt gtttctgagt agttctgagt aggaaagaac caaatgtaaa
+     2641 tttccttaga gaccatcctg gagaagacag ttctaaatcg gggcttgatt tttcatctat
+     2701 gatcctagat gttctcctga aagaatgact agccttttta taacgataca aagtttttta
+     2761 aaaatacata aatgtcataa agtttattcc tgtgtataca cactctgggt tcaggaggtt
+     2821 ttgtgcttac atttcactac tcaaatgcct tcgcaaatct cagaacattc ctcaccatca
+     2881 ctgcaggcct gtgaacagat aactttcatc aattaggatg gctggctagt ggcagggact
+     2941 tcatataaag aaatctttcc cagaattgtt tttccacatt gccttctaat ttgatcactc
+     3001 cctataacag atgttcaaaa ttcggccaca gctctcttat gaaggcagag tcagataaaa
+     3061 tgatattctg caattatcta gatcataagc ataaaataaa tattacaaaa atgattgtat
+     3121 ttaaagaaat tttttaaaat ccagaaagtc atttaaaata gaacctcata tagtatgaac
+     3181 aaactataaa aatattttac atttcatgaa aaaaaaaaaa aaaaaa
+//

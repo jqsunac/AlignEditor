@@ -1,0 +1,357 @@
+LOCUS       NM_006204               2980 bp    mRNA    linear   PRI 25-MAR-2012
+DEFINITION  Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha
+            prime (PDE6C), mRNA.
+ACCESSION   NM_006204
+VERSION     NM_006204.3  GI:157364938
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2980)
+  AUTHORS   Kohl,S. and Hamel,C.P.
+  TITLE     Clinical utility gene card for: achromatopsia
+  JOURNAL   Eur. J. Hum. Genet. 19 (6) (2011)
+   PUBMED   21267001
+  REMARK    GeneRIF: Missense mutations, nonsense mutations, splice mutations,
+            and small deletions and insertions in the affected genes cause
+            achromatopsia.
+REFERENCE   2  (bases 1 to 2980)
+  AUTHORS   Bosker,F.J., Hartman,C.A., Nolte,I.M., Prins,B.P., Terpstra,P.,
+            Posthuma,D., van Veen,T., Willemsen,G., DeRijk,R.H., de Geus,E.J.,
+            Hoogendijk,W.J., Sullivan,P.F., Penninx,B.W., Boomsma,D.I.,
+            Snieder,H. and Nolen,W.A.
+  TITLE     Poor replication of candidate genes for major depressive disorder
+            using genome-wide association data
+  JOURNAL   Mol. Psychiatry 16 (5), 516-532 (2011)
+   PUBMED   20351714
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   3  (bases 1 to 2980)
+  AUTHORS   Grau,T., Artemyev,N.O., Rosenberg,T., Dollfus,H., Haugen,O.H.,
+            Cumhur Sener,E., Jurklies,B., Andreasson,S., Kernstock,C.,
+            Larsen,M., Zrenner,E., Wissinger,B. and Kohl,S.
+  TITLE     Decreased catalytic activity and altered activation properties of
+            PDE6C mutants associated with autosomal recessive achromatopsia
+  JOURNAL   Hum. Mol. Genet. 20 (4), 719-730 (2011)
+   PUBMED   21127010
+  REMARK    GeneRIF: Eleven different PDE6C mutations were found including two
+            nonsense mutations, three mutations affecting transcript splicing
+            as shown by minigene assays, one 1 bp-insertion and five missense
+            mutations
+REFERENCE   4  (bases 1 to 2980)
+  AUTHORS   Bailey,S.D., Xie,C., Do,R., Montpetit,A., Diaz,R., Mohan,V.,
+            Keavney,B., Yusuf,S., Gerstein,H.C., Engert,J.C. and Anand,S.
+  CONSRTM   DREAM investigators
+  TITLE     Variation at the NFATC2 locus increases the risk of
+            thiazolidinedione-induced edema in the Diabetes REduction
+            Assessment with ramipril and rosiglitazone Medication (DREAM)
+            study
+  JOURNAL   Diabetes Care 33 (10), 2250-2253 (2010)
+   PUBMED   20628086
+  REMARK    GeneRIF: Observational study of gene-disease association,
+            gene-environment interaction, and pharmacogenomic / toxicogenomic.
+            (HuGE Navigator)
+REFERENCE   5  (bases 1 to 2980)
+  AUTHORS   Talmud,P.J., Drenos,F., Shah,S., Shah,T., Palmen,J., Verzilli,C.,
+            Gaunt,T.R., Pallas,J., Lovering,R., Li,K., Casas,J.P., Sofat,R.,
+            Kumari,M., Rodriguez,S., Johnson,T., Newhouse,S.J., Dominiczak,A.,
+            Samani,N.J., Caulfield,M., Sever,P., Stanton,A., Shields,D.C.,
+            Padmanabhan,S., Melander,O., Hastie,C., Delles,C., Ebrahim,S.,
+            Marmot,M.G., Smith,G.D., Lawlor,D.A., Munroe,P.B., Day,I.N.,
+            Kivimaki,M., Whittaker,J., Humphries,S.E. and Hingorani,A.D.
+  CONSRTM   DREAM investigators ASCOT investigators; NORDIL investigators;
+            BRIGHT Consortium
+  TITLE     Gene-centric association signals for lipids and apolipoproteins
+            identified via the HumanCVD BeadChip
+  JOURNAL   Am. J. Hum. Genet. 85 (5), 628-642 (2009)
+   PUBMED   19913121
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   6  (bases 1 to 2980)
+  AUTHORS   Harrington,J.J., Sherf,B., Rundlett,S., Jackson,P.D., Perry,R.,
+            Cain,S., Leventhal,C., Thornton,M., Ramachandran,R.,
+            Whittington,J., Lerner,L., Costanzo,D., McElligott,K., Boozer,S.,
+            Mays,R., Smith,E., Veloso,N., Klika,A., Hess,J., Cothren,K.,
+            Lo,K., Offenbacher,J., Danzig,J. and Ducar,M.
+  TITLE     Creation of genome-wide protein expression libraries using random
+            activation of gene expression
+  JOURNAL   Nat. Biotechnol. 19 (5), 440-445 (2001)
+   PUBMED   11329013
+REFERENCE   7  (bases 1 to 2980)
+  AUTHORS   Gao,Y.Q., Danciger,M., Longmuir,R., Piriev,N.I., Zhao,D.Y.,
+            Heckenlively,J.R., Fishman,G.A., Weleber,R.G., Jacobson,S.G.,
+            Stone,E.M. and Farber,D.B.
+  TITLE     Screening of the gene encoding the alpha'-subunit of cone cGMP-PDE
+            in patients with retinal degenerations
+  JOURNAL   Invest. Ophthalmol. Vis. Sci. 40 (8), 1818-1822 (1999)
+   PUBMED   10393054
+REFERENCE   8  (bases 1 to 2980)
+  AUTHORS   Feshchenko,E.A., Andreeva,S.G., Suslova,V.A., Smirnova,E.V.,
+            Zagranichny,V.E. and Lipkin,V.M.
+  TITLE     Human cone-specific cGMP phosphodiesterase alpha' subunit:
+            complete cDNA sequence and gene arrangement
+  JOURNAL   FEBS Lett. 381 (1-2), 149-152 (1996)
+   PUBMED   8641425
+REFERENCE   9  (bases 1 to 2980)
+  AUTHORS   Viczian,A.S., Piriev,N.I. and Farber,D.B.
+  TITLE     Isolation and characterization of a cDNA encoding the alpha'
+            subunit of human cone cGMP-phosphodiesterase
+  JOURNAL   Gene 166 (2), 205-211 (1995)
+   PUBMED   8543163
+REFERENCE   10  (bases 1 to 2980)
+  AUTHORS   Piriev,N.I., Viczian,A.S., Ye,J., Kerner,B., Korenberg,J.R. and
+            Farber,D.B.
+  TITLE     Gene structure and amino acid sequence of the human cone
+            photoreceptor cGMP-phosphodiesterase alpha' subunit (PDEA2) and
+            its chromosomal localization to 10q24
+  JOURNAL   Genomics 28 (3), 429-435 (1995)
+   PUBMED   7490077
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from U31973.1, AL356214.20,
+            BG206143.1 and BG220856.1. This sequence is a reference standard
+            in the RefSeqGene project. On Sep 19, 2007 this sequence version
+            replaced gi:21361307. Publication Note: This RefSeq record
+            includes a subset of the publications that are available for this
+            gene. Please see the Gene record to access additional
+            publications. Summary: This gene encodes the alpha-prime subunit
+            of cone phosphodiesterase, which is composed of a homodimer of two
+            alpha-prime subunits and 3 smaller proteins of 11, 13, and 15 kDa.
+            Mutations in this gene are associated with cone dystrophy type 4
+            (COD4). [provided by RefSeq, Mar 2010]. COMPLETENESS: complete on
+            the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2980
+                     /mol_type="mRNA"
+                     /map="10q24"
+                     /db_xref="taxon:9606"
+                     /chromosome="10"
+                     /organism="Homo sapiens"
+     gene            1..2980
+                     /db_xref="GeneID:5146"
+                     /db_xref="HGNC:8787"
+                     /db_xref="HPRD:02898"
+                     /db_xref="MIM:600827"
+                     /gene_synonym="COD4; PDEA2"
+                     /gene="PDE6C"
+                     /note="phosphodiesterase 6C, cGMP-specific, cone, alpha
+                     prime"
+     exon            1..618
+                     /gene_synonym="COD4; PDEA2"
+                     /number=1
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     misc_feature    94..96
+                     /gene_synonym="COD4; PDEA2"
+                     /gene="PDE6C"
+                     /note="upstream in-frame stop codon"
+     CDS             139..2715
+                     /gene_synonym="COD4; PDEA2"
+                     /protein_id="NP_006195.3"
+                     /gene="PDE6C"
+                     /note="cGMP phosphodiesterase 6C"
+                     /db_xref="GI:157364939"
+                     /db_xref="CCDS:CCDS7429.1"
+                     /db_xref="GeneID:5146"
+                     /db_xref="HGNC:8787"
+                     /db_xref="HPRD:02898"
+                     /db_xref="MIM:600827"
+                     /codon_start=1
+                     /product="cone cGMP-specific 3',5'-cyclic
+                     phosphodiesterase subunit alpha'"
+                     /translation="MGEINQVAVEKYLEENPQFAKEYFDRKLRVEVLGEIFKNSQVPV
+                     QSSMSFSELTQVEESALCLELLWTVQEEGGTPEQGVHRALQRLAHLLQADRCSMFLCR
+                     SRNGIPEVASRLLDVTPTSKFEDNLVGPDKEVVFPLDIGIVGWAAHTKKTHNVPDVKK
+                     NSHFSDFMDKQTGYVTKNLLATPIVVGKEVLAVIMAVNKVNASEFSKQDEEVFSKYLN
+                     FVSIILRLHHTSYMYNIESRRSQILMWSANKVFEELTDVERQFHKALYTVRSYLNCER
+                     YSIGLLDMTKEKEFYDEWPIKLGEVEPYKGPKTPDGREVNFYKIIDYILHGKEEIKVI
+                     PTPPADHWTLISGLPTYVAENGFICNMMNAPADEYFTFQKGPVDETGWVIKNVLSLPI
+                     VNKKEDIVGVATFYNRKDGKPFDEHDEYITETLTQFLGWSLLNTDTYDKMNKLENRKD
+                     IAQEMLMNQTKATPEEIKSILKFQEKLNVDVIDDCEEKQLVAILKEDLPDPRSAELYE
+                     FRFSDFPLTEHGLIKCGIRLFFEINVVEKFKVPVEVLTRWMYTVRKGYRAVTYHNWRH
+                     GFNVGQTMFTLLMTGRLKKYYTDLEAFAMLAAAFCHDIDHRGTNNLYQMKSTSPLARL
+                     HGSSILERHHLEYSKTLLQDESLNIFQNLNKRQFETVIHLFEVAIIATDLALYFKKRT
+                     MFQKIVDACEQMQTEEEAIKYVTVDPTKKEIIMAMMMTACDLSAITKPWEVQSQVALM
+                     VANEFWEQGDLERTVLQQQPIPMMDRNKRDELPKLQVGFIDFVCTFVYKEFSRFHKEI
+                     TPMLSGLQNNRVEWKSLADEYDAKMKVIEEEAKKQEGGAEKAAEDSGGGDDKKSKTCL
+                     ML"
+                     /EC_number="3.1.4.35"
+     exon            619..771
+                     /gene_synonym="COD4; PDEA2"
+                     /number=2
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            772..861
+                     /gene_synonym="COD4; PDEA2"
+                     /number=3
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     STS             833..926
+                     /db_xref="UniSTS:512643"
+                     /gene_synonym="COD4; PDEA2"
+                     /gene="PDE6C"
+                     /standard_name="PDE6C-1"
+     exon            862..1002
+                     /gene_synonym="COD4; PDEA2"
+                     /number=4
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1003..1077
+                     /gene_synonym="COD4; PDEA2"
+                     /number=5
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1078..1142
+                     /gene_synonym="COD4; PDEA2"
+                     /number=6
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1143..1209
+                     /gene_synonym="COD4; PDEA2"
+                     /number=7
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1210..1257
+                     /gene_synonym="COD4; PDEA2"
+                     /number=8
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1258..1407
+                     /gene_synonym="COD4; PDEA2"
+                     /number=9
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1408..1551
+                     /gene_synonym="COD4; PDEA2"
+                     /number=10
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1552..1620
+                     /gene_synonym="COD4; PDEA2"
+                     /number=11
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1621..1767
+                     /gene_synonym="COD4; PDEA2"
+                     /number=12
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1768..1875
+                     /gene_synonym="COD4; PDEA2"
+                     /number=13
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1876..1985
+                     /gene_synonym="COD4; PDEA2"
+                     /number=14
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            1986..2073
+                     /gene_synonym="COD4; PDEA2"
+                     /number=15
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            2074..2174
+                     /gene_synonym="COD4; PDEA2"
+                     /number=16
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            2175..2282
+                     /gene_synonym="COD4; PDEA2"
+                     /number=17
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            2283..2346
+                     /gene_synonym="COD4; PDEA2"
+                     /number=18
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            2347..2421
+                     /gene_synonym="COD4; PDEA2"
+                     /number=19
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            2422..2505
+                     /gene_synonym="COD4; PDEA2"
+                     /number=20
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            2506..2656
+                     /gene_synonym="COD4; PDEA2"
+                     /number=21
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     exon            2657..2970
+                     /gene_synonym="COD4; PDEA2"
+                     /number=22
+                     /inference="alignment:Splign"
+                     /gene="PDE6C"
+     STS             2745..2945
+                     /db_xref="UniSTS:65719"
+                     /gene_synonym="COD4; PDEA2"
+                     /gene="PDE6C"
+                     /standard_name="SHGC-31657"
+     STS             2796..2939
+                     /db_xref="UniSTS:65392"
+                     /gene_synonym="COD4; PDEA2"
+                     /gene="PDE6C"
+                     /standard_name="RH79144"
+     polyA_signal    2947..2952
+                     /gene_synonym="COD4; PDEA2"
+                     /gene="PDE6C"
+     polyA_site      2970
+                     /gene_synonym="COD4; PDEA2"
+                     /gene="PDE6C"
+ORIGIN      
+        1 ctttggaagt cctatgaggg accatttacg gtttcctcag taatttccac caggatgaat
+       61 ttccttctca tcactctgcc tcaggtagtg ctctgaaggt cgtcctttct gaacaaacgc
+      121 agcaaagcaa gccacaccat gggtgagatc aaccaagttg ccgtggagaa atacctggag
+      181 gagaaccctc agtttgccaa ggagtacttt gacaggaagt tgcgggtgga ggtgctggga
+      241 gaaatcttca agaacagcca ggtgccagtc cagtccagca tgtccttctc tgagctgacc
+      301 caggtggagg agtcagccct gtgcttggag ctgctgtgga ccgtgcagga ggaggggggc
+      361 accccagagc agggggttca cagggccctg cagaggctgg cccacctgct ccaggctgac
+      421 cgctgcagca tgttcctgtg ccggtcccgg aacggcatac ctgaggtggc ctctaggttg
+      481 ctggatgtca cccccacctc caagtttgag gacaacctgg tgggccctga caaagaagtt
+      541 gtgtttccat tggacattgg gatagtgggt tgggctgctc acacgaagaa aactcataat
+      601 gtcccagatg tgaaaaagaa cagccatttt tctgacttca tggacaagca aactgggtat
+      661 gtcactaaga acctgctggc aaccccgatc gtggtgggca aggaggttct tgctgtgatc
+      721 atggcagtta acaaagtaaa tgcatctgaa ttttccaaac aggatgaaga ggtcttttcc
+      781 aaatacctca actttgtgtc tatcatccta aggcttcatc acaccagcta catgtacaat
+      841 attgaatccc gaagaagcca gatccttatg tggtcagcca ataaagtatt tgaagaactc
+      901 acagatgttg agcgacagtt tcacaaagcg ctctacacgg ttagatcata tctgaactgt
+      961 gaacgatact ccattggact gctggacatg accaaggaga aggaattcta cgatgaatgg
+     1021 ccaatcaagc ttggagaagt agagccttat aaaggtccaa agacacctga tggcagggaa
+     1081 gtcaactttt ataaaatcat tgattacatt ttacatggaa aagaagagat caaagtgatt
+     1141 ccgacgcctc ctgcagacca ctggacactc attagtgggt tgccaacata tgttgctgaa
+     1201 aatggattta tctgtaacat gatgaatgcc cctgcggatg aatacttcac atttcagaaa
+     1261 ggacctgtag acgaaactgg ttgggtcatt aagaatgttt tgtccctgcc tattgtcaac
+     1321 aagaaagaag atattgtggg agtggctaca ttttacaaca ggaaggatgg aaaacctttc
+     1381 gatgagcatg atgaatacat taccgagact ctcacacaat ttcttggatg gtctctttta
+     1441 aatactgaca cctacgataa gatgaataag ctagaaaaca gaaaggacat tgctcaggaa
+     1501 atgctcatga accaaaccaa agccactcct gaagaaatta agtccatttt gaaatttcaa
+     1561 gagaagttaa atgttgatgt aattgacgac tgtgaagaaa aacaacttgt tgcaattttg
+     1621 aaagaggact tgccagaccc acgctcagca gaactgtacg aattccgctt cagtgacttc
+     1681 ccccttacag agcacggatt gattaaatgt ggaatacgac tgttttttga aataaatgtg
+     1741 gtggagaaat tcaaagtacc tgtagaggtt cttaccagat ggatgtacac tgtgaggaaa
+     1801 gggtaccgag ctgtcactta ccacaattgg cggcatgggt tcaacgtggg gcagaccatg
+     1861 tttactttgc tgatgacagg aagattaaag aagtactaca cagatctcga agcctttgcc
+     1921 atgcttgctg ctgctttctg ccatgatatt gaccacagag gcaccaataa tttgtaccag
+     1981 atgaaatcca cgtctccatt agcaagactt catggttctt ctattttgga gaggcaccac
+     2041 ctggagtaca gtaagactct gttgcaggat gagagtttaa acatcttcca gaacctaaat
+     2101 aagcggcagt ttgaaacagt tattcatttg ttcgaggtcg caataatagc aactgacctg
+     2161 gctttatatt tcaagaagag gaccatgttt caaaaaattg ttgatgcctg tgaacaaatg
+     2221 caaacggaag aagaagccat caaatatgta actgttgatc caaccaagaa agagattatc
+     2281 atggcaatga tgatgacggc atgtgacttg tctgctatta ccaagccctg ggaggtgcaa
+     2341 agtcaggtag cacttatggt tgcaaatgaa ttttgggaac aaggagatct ggagagaaca
+     2401 gtgttgcagc aacaacccat tcctatgatg gacagaaaca aaagagatga attacctaaa
+     2461 cttcaagttg gatttattga ttttgtttgt acttttgtat ataaggagtt ctcacggttt
+     2521 cacaaagaaa tcacacctat gctgagtggt cttcagaata acagagtaga atggaaatca
+     2581 ctagctgatg agtatgatgc aaagatgaag gtcattgaag aggaggcaaa aaagcaagaa
+     2641 ggaggagccg aaaaagctgc tgaagattca ggaggtggtg atgacaaaaa gtccaaaaca
+     2701 tgtttaatgt tgtaatatta tctaactggt ctaaacttca aatatcattt tacctttgaa
+     2761 gaaaaccaga aaacattcaa aagaacttca acaaatcatc acgtaacagg atcttcagaa
+     2821 aaactaccct gtgactatga agaaaatata tattgctagc ccaaaaatcc caggggcaaa
+     2881 ataaagttca acaaaagtgc aaaatatgac aaaaataggt acatttttgg tgccaattta
+     2941 ttttaaatta aaaaatatgc aatcctgaaa aaaaaaaaaa
+//

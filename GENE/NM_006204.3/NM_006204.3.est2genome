@@ -1,0 +1,339 @@
+Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+Exon       618 100.0  5502  6119 NC_000010.10     1   618 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0  6120 13545 NC_000010.10
+Exon       153 100.0 13546 13698 NC_000010.10   619   771 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 13699 13804 NC_000010.10
+Exon        90 100.0 13805 13894 NC_000010.10   772   861 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 13895 14845 NC_000010.10
+Exon       141 100.0 14846 14986 NC_000010.10   862  1002 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 14987 18488 NC_000010.10
+Exon        75 100.0 18489 18563 NC_000010.10  1003  1077 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 18564 19553 NC_000010.10
+Exon        65 100.0 19554 19618 NC_000010.10  1078  1142 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 19619 19718 NC_000010.10
+Exon        67 100.0 19719 19785 NC_000010.10  1143  1209 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 19786 22171 NC_000010.10
+Exon        48 100.0 22172 22219 NC_000010.10  1210  1257 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 22220 27671 NC_000010.10
+Exon       148  98.1 27672 27825 NC_000010.10  1258  1411 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 27826 28410 NC_000010.10
+Exon       132  97.2 28411 28554 NC_000010.10  1412  1551 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 28555 29908 NC_000010.10
+Exon        69 100.0 29909 29977 NC_000010.10  1552  1620 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 29978 32983 NC_000010.10
+Exon       147 100.0 32984 33130 NC_000010.10  1621  1767 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 33131 33363 NC_000010.10
+Exon       108 100.0 33364 33471 NC_000010.10  1768  1875 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 33472 33833 NC_000010.10
+Exon       110 100.0 33834 33943 NC_000010.10  1876  1985 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 33944 38873 NC_000010.10
+Exon        88 100.0 38874 38961 NC_000010.10  1986  2073 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 38962 48673 NC_000010.10
+Exon       101 100.0 48674 48774 NC_000010.10  2074  2174 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 48775 51814 NC_000010.10
+Exon       108 100.0 51815 51922 NC_000010.10  2175  2282 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 51923 52017 NC_000010.10
+Exon        64 100.0 52018 52081 NC_000010.10  2283  2346 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 52082 54972 NC_000010.10
+Exon        75 100.0 54973 55047 NC_000010.10  2347  2421 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 55048 55473 NC_000010.10
+Exon        84 100.0 55474 55557 NC_000010.10  2422  2505 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 55558 55941 NC_000010.10
+Exon       151 100.0 55942 56092 NC_000010.10  2506  2656 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
++Intron    -20   0.0 56093 58273 NC_000010.10
+Exon       314 100.0 58274 58587 NC_000010.10  2657  2970 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+
+Span      2536  99.8  5502 58587 NC_000010.10     1  2970 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+
+Segment    618 100.0  5502  6119 NC_000010.10     1   618 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    153 100.0 13546 13698 NC_000010.10   619   771 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     90 100.0 13805 13894 NC_000010.10   772   861 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    141 100.0 14846 14986 NC_000010.10   862  1002 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     75 100.0 18489 18563 NC_000010.10  1003  1077 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     65 100.0 19554 19618 NC_000010.10  1078  1142 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     67 100.0 19719 19785 NC_000010.10  1143  1209 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     48 100.0 22172 22219 NC_000010.10  1210  1257 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    148  98.1 27672 27825 NC_000010.10  1258  1411 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    140 100.0 28415 28554 NC_000010.10  1412  1551 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     69 100.0 29909 29977 NC_000010.10  1552  1620 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    147 100.0 32984 33130 NC_000010.10  1621  1767 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    108 100.0 33364 33471 NC_000010.10  1768  1875 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    110 100.0 33834 33943 NC_000010.10  1876  1985 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     88 100.0 38874 38961 NC_000010.10  1986  2073 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    101 100.0 48674 48774 NC_000010.10  2074  2174 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    108 100.0 51815 51922 NC_000010.10  2175  2282 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     64 100.0 52018 52081 NC_000010.10  2283  2346 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     75 100.0 54973 55047 NC_000010.10  2347  2421 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment     84 100.0 55474 55557 NC_000010.10  2422  2505 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    151 100.0 55942 56092 NC_000010.10  2506  2656 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+Segment    314 100.0 58274 58587 NC_000010.10  2657  2970 10            Homo sapiens phosphodiesterase 6C, cGMP-specific, cone, alpha prime (PDE6C), mRNA.
+
+
+NC_000010.10 vs 10:
+
+NC_000010.10   5502 CTTTGGAAGTCCTATGAGGGACCATTTACGGTTTCCTCAGTAATTTCCAC   5551
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10      1 CTTTGGAAGTCCTATGAGGGACCATTTACGGTTTCCTCAGTAATTTCCAC     50
+
+NC_000010.10   5552 CAGGATGAATTTCCTTCTCATCACTCTGCCTCAGGTAGTGCTCTGAAGGT   5601
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10     51 CAGGATGAATTTCCTTCTCATCACTCTGCCTCAGGTAGTGCTCTGAAGGT    100
+
+NC_000010.10   5602 CGTCCTTTCTGAACAAACGCAGCAAAGCAAGCCACACCATGGGTGAGATC   5651
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    101 CGTCCTTTCTGAACAAACGCAGCAAAGCAAGCCACACCATGGGTGAGATC    150
+
+NC_000010.10   5652 AACCAAGTTGCCGTGGAGAAATACCTGGAGGAGAACCCTCAGTTTGCCAA   5701
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    151 AACCAAGTTGCCGTGGAGAAATACCTGGAGGAGAACCCTCAGTTTGCCAA    200
+
+NC_000010.10   5702 GGAGTACTTTGACAGGAAGTTGCGGGTGGAGGTGCTGGGAGAAATCTTCA   5751
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    201 GGAGTACTTTGACAGGAAGTTGCGGGTGGAGGTGCTGGGAGAAATCTTCA    250
+
+NC_000010.10   5752 AGAACAGCCAGGTGCCAGTCCAGTCCAGCATGTCCTTCTCTGAGCTGACC   5801
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    251 AGAACAGCCAGGTGCCAGTCCAGTCCAGCATGTCCTTCTCTGAGCTGACC    300
+
+NC_000010.10   5802 CAGGTGGAGGAGTCAGCCCTGTGCTTGGAGCTGCTGTGGACCGTGCAGGA   5851
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    301 CAGGTGGAGGAGTCAGCCCTGTGCTTGGAGCTGCTGTGGACCGTGCAGGA    350
+
+NC_000010.10   5852 GGAGGGGGGCACCCCAGAGCAGGGGGTTCACAGGGCCCTGCAGAGGCTGG   5901
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    351 GGAGGGGGGCACCCCAGAGCAGGGGGTTCACAGGGCCCTGCAGAGGCTGG    400
+
+NC_000010.10   5902 CCCACCTGCTCCAGGCTGACCGCTGCAGCATGTTCCTGTGCCGGTCCCGG   5951
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    401 CCCACCTGCTCCAGGCTGACCGCTGCAGCATGTTCCTGTGCCGGTCCCGG    450
+
+NC_000010.10   5952 AACGGCATACCTGAGGTGGCCTCTAGGTTGCTGGATGTCACCCCCACCTC   6001
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    451 AACGGCATACCTGAGGTGGCCTCTAGGTTGCTGGATGTCACCCCCACCTC    500
+
+NC_000010.10   6002 CAAGTTTGAGGACAACCTGGTGGGCCCTGACAAAGAAGTTGTGTTTCCAT   6051
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    501 CAAGTTTGAGGACAACCTGGTGGGCCCTGACAAAGAAGTTGTGTTTCCAT    550
+
+NC_000010.10   6052 TGGACATTGGGATAGTGGGTTGGGCTGCTCACACGAAGAAAACTCATAAT   6101
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    551 TGGACATTGGGATAGTGGGTTGGGCTGCTCACACGAAGAAAACTCATAAT    600
+
+NC_000010.10   6102 GTCCCAGATGTGAAAAAGgtagg......ttcagAACAGCCATTTTTCTG  13561
+                    ||||||||||||||||||>>>>> 7426 >>>>>||||||||||||||||
+          10    601 GTCCCAGATGTGAAAAAG................AACAGCCATTTTTCTG    634
+
+NC_000010.10  13562 ACTTCATGGACAAGCAAACTGGGTATGTCACTAAGAACCTGCTGGCAACC  13611
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    635 ACTTCATGGACAAGCAAACTGGGTATGTCACTAAGAACCTGCTGGCAACC    684
+
+NC_000010.10  13612 CCGATCGTGGTGGGCAAGGAGGTTCTTGCTGTGATCATGGCAGTTAACAA  13661
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    685 CCGATCGTGGTGGGCAAGGAGGTTCTTGCTGTGATCATGGCAGTTAACAA    734
+
+NC_000010.10  13662 AGTAAATGCATCTGAATTTTCCAAACAGGATGAAGAGgtaat.....tgt  13698
+                    |||||||||||||||||||||||||||||||||||||>>>>> 106 >>>
+          10    735 AGTAAATGCATCTGAATTTTCCAAACAGGATGAAGAG.............    771
+
+NC_000010.10  13698 agGTCTTTTCCAAATACCTCAACTTTGTGTCTATCATCCTAAGGCTTCAT  13852
+                    >>||||||||||||||||||||||||||||||||||||||||||||||||
+          10    771 ..GTCTTTTCCAAATACCTCAACTTTGTGTCTATCATCCTAAGGCTTCAT    819
+
+NC_000010.10  13853 CACACCAGCTACATGTACAATATTGAATCCCGAAGAAGCCAGgtaaa...  13894
+                    ||||||||||||||||||||||||||||||||||||||||||>>>>> 95
+          10    820 CACACCAGCTACATGTACAATATTGAATCCCGAAGAAGCCAG........    861
+
+NC_000010.10  13894 ..ttcagATCCTTATGTGGTCAGCCAATAAAGTATTTGAAGAACTCACAG  14888
+                    1 >>>>>|||||||||||||||||||||||||||||||||||||||||||
+          10    861 .......ATCCTTATGTGGTCAGCCAATAAAGTATTTGAAGAACTCACAG    904
+
+NC_000010.10  14889 ATGTTGAGCGACAGTTTCACAAAGCGCTCTACACGGTTAGATCATATCTG  14938
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10    905 ATGTTGAGCGACAGTTTCACAAAGCGCTCTACACGGTTAGATCATATCTG    954
+
+NC_000010.10  14939 AACTGTGAACGATACTCCATTGGACTGCTGGACATGACCAAGGAGAAGgt  14986
+                    ||||||||||||||||||||||||||||||||||||||||||||||||>>
+          10    955 AACTGTGAACGATACTCCATTGGACTGCTGGACATGACCAAGGAGAAG..   1002
+
+NC_000010.10  14986 tct......tccagGAATTCTACGATGAATGGCCAATCAAGCTTGGAGAA  18524
+                    >>> 3502 >>>>>||||||||||||||||||||||||||||||||||||
+          10   1002 ..............GAATTCTACGATGAATGGCCAATCAAGCTTGGAGAA   1038
+
+NC_000010.10  18525 GTAGAGCCTTATAAAGGTCCAAAGACACCTGATGGCAGGgtacg.....c  18563
+                    |||||||||||||||||||||||||||||||||||||||>>>>> 990 >
+          10   1039 GTAGAGCCTTATAAAGGTCCAAAGACACCTGATGGCAGG...........   1077
+
+NC_000010.10  18563 ttagGAAGTCAACTTTTATAAAATCATTGATTACATTTTACATGGAAAAG  19599
+                    >>>>||||||||||||||||||||||||||||||||||||||||||||||
+          10   1077 ....GAAGTCAACTTTTATAAAATCATTGATTACATTTTACATGGAAAAG   1123
+
+NC_000010.10  19600 AAGAGATCAAAGTGATTCCgtgag.....ccaagGACGCCTCCTGCAGAC  19734
+                    |||||||||||||||||||>>>>> 100 >>>>>||||||||||||||||
+          10   1124 AAGAGATCAAAGTGATTCC...............GACGCCTCCTGCAGAC   1158
+
+NC_000010.10  19735 CACTGGACACTCATTAGTGGGTTGCCAACATATGTTGCTGAAAATGGATT  19784
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   1159 CACTGGACACTCATTAGTGGGTTGCCAACATATGTTGCTGAAAATGGATT   1208
+
+NC_000010.10  19785 Tgtaag......tccagATCTGTAACATGATGAATGCCCCTGCGGATGAA  22204
+                    |>>>>> 2386 >>>>>|||||||||||||||||||||||||||||||||
+          10   1209 T................ATCTGTAACATGATGAATGCCCCTGCGGATGAA   1242
+
+NC_000010.10  22205 TACTTCACATTTCAGgtaac......tgtagAAAGGACCTGTAGACGAAA  27690
+                    |||||||||||||||>>>>> 5452 >>>>>|||||||||||||||||||
+          10   1243 TACTTCACATTTCAG................AAAGGACCTGTAGACGAAA   1276
+
+NC_000010.10  27691 CTGGTTGGGTCATTAAGAATGTTTTGTCCCTGCCTATTGTCAACAAGAAA  27740
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   1277 CTGGTTGGGTCATTAAGAATGTTTTGTCCCTGCCTATTGTCAACAAGAAA   1326
+
+NC_000010.10  27741 GAAGATATTGTGGGAGTGGCTACATTTTACAACAGGAAGGATGGAAAACC  27790
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   1327 GAAGATATTGTGGGAGTGGCTACATTTTACAACAGGAAGGATGGAAAACC   1376
+
+NC_000010.10  27791 TTTCGATGAGCATGATGAATACATTACCGAGGCAAgtgca.....ttcag  27825
+                    ||||||||||||||||||||||||||||||| |  >>>>> 585 >>>>>
+          10   1377 TTTCGATGAGCATGATGAATACATTACCGAGACTC...............   1411
+
+NC_000010.10  28411 ACTCTCACACAATTTCTTGGATGGTCTCTTTTAAATACTGACACCTACGA  28460
+                        ||||||||||||||||||||||||||||||||||||||||||||||
+          10   1412 ----TCACACAATTTCTTGGATGGTCTCTTTTAAATACTGACACCTACGA   1457
+
+NC_000010.10  28461 TAAGATGAATAAGCTAGAAAACAGAAAGGACATTGCTCAGGAAATGCTCA  28510
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   1458 TAAGATGAATAAGCTAGAAAACAGAAAGGACATTGCTCAGGAAATGCTCA   1507
+
+NC_000010.10  28511 TGAACCAAACCAAAGCCACTCCTGAAGAAATTAAGTCCATTTTGgtaag.  28554
+                    ||||||||||||||||||||||||||||||||||||||||||||>>>>> 
+          10   1508 TGAACCAAACCAAAGCCACTCCTGAAGAAATTAAGTCCATTTTG......   1551
+
+NC_000010.10  28554 .....tttagAAATTTCAAGAGAAGTTAAATGTTGATGTAATTGACGACT  29948
+                    1354 >>>>>||||||||||||||||||||||||||||||||||||||||
+          10   1551 ..........AAATTTCAAGAGAAGTTAAATGTTGATGTAATTGACGACT   1591
+
+NC_000010.10  29949 GTGAAGAAAAACAACTTGTTGCAATTTTGgtaag......aacagAAAGA  32988
+                    |||||||||||||||||||||||||||||>>>>> 3006 >>>>>|||||
+          10   1592 GTGAAGAAAAACAACTTGTTGCAATTTTG................AAAGA   1625
+
+NC_000010.10  32989 GGACTTGCCAGACCCACGCTCAGCAGAACTGTACGAATTCCGCTTCAGTG  33038
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   1626 GGACTTGCCAGACCCACGCTCAGCAGAACTGTACGAATTCCGCTTCAGTG   1675
+
+NC_000010.10  33039 ACTTCCCCCTTACAGAGCACGGATTGATTAAATGTGGAATACGACTGTTT  33088
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   1676 ACTTCCCCCTTACAGAGCACGGATTGATTAAATGTGGAATACGACTGTTT   1725
+
+NC_000010.10  33089 TTTGAAATAAATGTGGTGGAGAAATTCAAAGTACCTGTAGAGgtcag...  33130
+                    ||||||||||||||||||||||||||||||||||||||||||>>>>> 23
+          10   1726 TTTGAAATAAATGTGGTGGAGAAATTCAAAGTACCTGTAGAG........   1767
+
+NC_000010.10  33130 ..tttagGTTCTTACCAGATGGATGTACACTGTGAGGAAAGGGTACCGAG  33406
+                    3 >>>>>|||||||||||||||||||||||||||||||||||||||||||
+          10   1767 .......GTTCTTACCAGATGGATGTACACTGTGAGGAAAGGGTACCGAG   1810
+
+NC_000010.10  33407 CTGTCACTTACCACAATTGGCGGCATGGGTTCAACGTGGGGCAGACCATG  33456
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   1811 CTGTCACTTACCACAATTGGCGGCATGGGTTCAACGTGGGGCAGACCATG   1860
+
+NC_000010.10  33457 TTTACTTTGCTGATGgtagg.....tttagACAGGAAGATTAAAGAAGTA  33853
+                    |||||||||||||||>>>>> 362 >>>>>||||||||||||||||||||
+          10   1861 TTTACTTTGCTGATG...............ACAGGAAGATTAAAGAAGTA   1895
+
+NC_000010.10  33854 CTACACAGATCTCGAAGCCTTTGCCATGCTTGCTGCTGCTTTCTGCCATG  33903
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   1896 CTACACAGATCTCGAAGCCTTTGCCATGCTTGCTGCTGCTTTCTGCCATG   1945
+
+NC_000010.10  33904 ATATTGACCACAGAGGCACCAATAATTTGTACCAGATGAAgtaag.....  33943
+                    ||||||||||||||||||||||||||||||||||||||||>>>>> 4930
+          10   1946 ATATTGACCACAGAGGCACCAATAATTTGTACCAGATGAA..........   1985
+
+NC_000010.10  33943 .tctagATCCACGTCTCCATTAGCAAGACTTCATGGTTCTTCTATTTTGG  38917
+                     >>>>>||||||||||||||||||||||||||||||||||||||||||||
+          10   1985 ......ATCCACGTCTCCATTAGCAAGACTTCATGGTTCTTCTATTTTGG   2029
+
+NC_000010.10  38918 AGAGGCACCACCTGGAGTACAGTAAGACTCTGTTGCAGGATGAGgtacg.  38961
+                    ||||||||||||||||||||||||||||||||||||||||||||>>>>> 
+          10   2030 AGAGGCACCACCTGGAGTACAGTAAGACTCTGTTGCAGGATGAG......   2073
+
+NC_000010.10  38961 .....tacagAGTTTAAACATCTTCCAGAACCTAAATAAGCGGCAGTTTG  48713
+                    9712 >>>>>||||||||||||||||||||||||||||||||||||||||
+          10   2073 ..........AGTTTAAACATCTTCCAGAACCTAAATAAGCGGCAGTTTG   2113
+
+NC_000010.10  48714 AAACAGTTATTCATTTGTTCGAGGTCGCAATAATAGCAACTGACCTGGCT  48763
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2114 AAACAGTTATTCATTTGTTCGAGGTCGCAATAATAGCAACTGACCTGGCT   2163
+
+NC_000010.10  48764 TTATATTTCAAgtaag......tctagGAAGAGGACCATGTTTCAAAAAA  51837
+                    |||||||||||>>>>> 3040 >>>>>|||||||||||||||||||||||
+          10   2164 TTATATTTCAA................GAAGAGGACCATGTTTCAAAAAA   2197
+
+NC_000010.10  51838 TTGTTGATGCCTGTGAACAAATGCAAACGGAAGAAGAAGCCATCAAATAT  51887
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2198 TTGTTGATGCCTGTGAACAAATGCAAACGGAAGAAGAAGCCATCAAATAT   2247
+
+NC_000010.10  51888 GTAACTGTTGATCCAACCAAGAAAGAGATTATCATgtagg....ctaagG  52018
+                    |||||||||||||||||||||||||||||||||||>>>>> 95 >>>>>|
+          10   2248 GTAACTGTTGATCCAACCAAGAAAGAGATTATCAT..............G   2283
+
+NC_000010.10  52019 GCAATGATGATGACGGCATGTGACTTGTCTGCTATTACCAAGCCCTGGGA  52068
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2284 GCAATGATGATGACGGCATGTGACTTGTCTGCTATTACCAAGCCCTGGGA   2333
+
+NC_000010.10  52069 GGTGCAAAGTCAGgtgag......tgcagGTAGCACTTATGGTTGCAAAT  54993
+                    |||||||||||||>>>>> 2891 >>>>>|||||||||||||||||||||
+          10   2334 GGTGCAAAGTCAG................GTAGCACTTATGGTTGCAAAT   2367
+
+NC_000010.10  54994 GAATTTTGGGAACAAGGAGATCTGGAGAGAACAGTGTTGCAGCAACAACC  55043
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2368 GAATTTTGGGAACAAGGAGATCTGGAGAGAACAGTGTTGCAGCAACAACC   2417
+
+NC_000010.10  55044 CATTgtaag.....tctagCCTATGATGGACAGAAACAAAAGAGATGAAT  55504
+                    ||||>>>>> 426 >>>>>|||||||||||||||||||||||||||||||
+          10   2418 CATT...............CCTATGATGGACAGAAACAAAAGAGATGAAT   2452
+
+NC_000010.10  55505 TACCTAAACTTCAAGTTGGATTTATTGATTTTGTTTGTACTTTTGTATAT  55554
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2453 TACCTAAACTTCAAGTTGGATTTATTGATTTTGTTTGTACTTTTGTATAT   2502
+
+NC_000010.10  55555 AAGgtaag.....tttagGAGTTCTCACGGTTTCACAAAGAAATCACACC  55973
+                    |||>>>>> 384 >>>>>||||||||||||||||||||||||||||||||
+          10   2503 AAG...............GAGTTCTCACGGTTTCACAAAGAAATCACACC   2537
+
+NC_000010.10  55974 TATGCTGAGTGGTCTTCAGAATAACAGAGTAGAATGGAAATCACTAGCTG  56023
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2538 TATGCTGAGTGGTCTTCAGAATAACAGAGTAGAATGGAAATCACTAGCTG   2587
+
+NC_000010.10  56024 ATGAGTATGATGCAAAGATGAAGGTCATTGAAGAGGAGGCAAAAAAGCAA  56073
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2588 ATGAGTATGATGCAAAGATGAAGGTCATTGAAGAGGAGGCAAAAAAGCAA   2637
+
+NC_000010.10  56074 GAAGGAGGAGCCGAAAAAGgttag......actagCTGCTGAAGATTCAG  58288
+                    |||||||||||||||||||>>>>> 2181 >>>>>|||||||||||||||
+          10   2638 GAAGGAGGAGCCGAAAAAG................CTGCTGAAGATTCAG   2671
+
+NC_000010.10  58289 GAGGTGGTGATGACAAAAAGTCCAAAACATGTTTAATGTTGTAATATTAT  58338
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2672 GAGGTGGTGATGACAAAAAGTCCAAAACATGTTTAATGTTGTAATATTAT   2721
+
+NC_000010.10  58339 CTAACTGGTCTAAACTTCAAATATCATTTTACCTTTGAAGAAAACCAGAA  58388
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2722 CTAACTGGTCTAAACTTCAAATATCATTTTACCTTTGAAGAAAACCAGAA   2771
+
+NC_000010.10  58389 AACATTCAAAAGAACTTCAACAAATCATCACGTAACAGGATCTTCAGAAA  58438
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2772 AACATTCAAAAGAACTTCAACAAATCATCACGTAACAGGATCTTCAGAAA   2821
+
+NC_000010.10  58439 AACTACCCTGTGACTATGAAGAAAATATATATTGCTAGCCCAAAAATCCC  58488
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2822 AACTACCCTGTGACTATGAAGAAAATATATATTGCTAGCCCAAAAATCCC   2871
+
+NC_000010.10  58489 AGGGGCAAAATAAAGTTCAACAAAAGTGCAAAATATGACAAAAATAGGTA  58538
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2872 AGGGGCAAAATAAAGTTCAACAAAAGTGCAAAATATGACAAAAATAGGTA   2921
+
+NC_000010.10  58539 CATTTTTGGTGCCAATTTATTTTAAATTAAAAAATATGCAATCCTGAAA  58587
+                    |||||||||||||||||||||||||||||||||||||||||||||||||
+          10   2922 CATTTTTGGTGCCAATTTATTTTAAATTAAAAAATATGCAATCCTGAAA   2970
+
+
+Alignment Score: 2536

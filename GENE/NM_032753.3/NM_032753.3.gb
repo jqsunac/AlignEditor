@@ -1,0 +1,138 @@
+LOCUS       NM_032753               2190 bp    mRNA    linear   PRI 31-MAR-2012
+DEFINITION  Homo sapiens retina and anterior neural fold homeobox 2 (RAX2),
+            mRNA.
+ACCESSION   NM_032753
+VERSION     NM_032753.3  GI:164607176
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2190)
+  AUTHORS   Davila,S., Froeling,F.E., Tan,A., Bonnard,C., Boland,G.J.,
+            Snippe,H., Hibberd,M.L. and Seielstad,M.
+  TITLE     New genetic associations detected in a host response study to
+            hepatitis B vaccine
+  JOURNAL   Genes Immun. 11 (3), 232-238 (2010)
+   PUBMED   20237496
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   2  (bases 1 to 2190)
+  AUTHORS   Wang,Q.L., Chen,S., Esumi,N., Swain,P.K., Haines,H.S., Peng,G.,
+            Melia,B.M., McIntosh,I., Heckenlively,J.R., Jacobson,S.G.,
+            Stone,E.M., Swaroop,A. and Zack,D.J.
+  TITLE     QRX, a novel homeobox gene, modulates photoreceptor gene
+            expression
+  JOURNAL   Hum. Mol. Genet. 13 (10), 1025-1040 (2004)
+   PUBMED   15028672
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC018709.1 and AY211277.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jan 11, 2008 this sequence version replaced gi:20127653.
+            Summary: This gene encodes a homeodomain-containing protein that
+            plays a role in eye development. Mutation of this gene causes
+            age-related macular degeneration type 6, an eye disorder resulting
+            in accumulations of protein and lipid beneath the retinal pigment
+            epithelium and within the Bruch's membrane. Defects in this gene
+            can also cause cone-rod dystrophy type 11, a disease characterized
+            by the initial degeneration of cone photoreceptor cells and
+            resulting in loss of color vision and visual acuity, followed by
+            the degeneration of rod photoreceptor cells, which progresses to
+            night blindness and the loss of peripheral vision. [provided by
+            RefSeq, Jul 2008]. COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2190
+                     /mol_type="mRNA"
+                     /map="19p13.3"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /organism="Homo sapiens"
+     gene            1..2190
+                     /db_xref="GeneID:84839"
+                     /db_xref="HGNC:18286"
+                     /db_xref="HPRD:17508"
+                     /db_xref="MIM:610362"
+                     /gene_synonym="ARMD6; CORD11; QRX; RAXL1"
+                     /gene="RAX2"
+                     /note="retina and anterior neural fold homeobox 2"
+     exon            1..59
+                     /gene_synonym="ARMD6; CORD11; QRX; RAXL1"
+                     /number=1
+                     /inference="alignment:Splign"
+                     /gene="RAX2"
+     exon            60..284
+                     /gene_synonym="ARMD6; CORD11; QRX; RAXL1"
+                     /number=2
+                     /inference="alignment:Splign"
+                     /gene="RAX2"
+     CDS             69..623
+                     /gene_synonym="ARMD6; CORD11; QRX; RAXL1"
+                     /protein_id="NP_116142.1"
+                     /gene="RAX2"
+                     /note="retina and anterior neural fold homeobox like 1;
+                     Q50-type retinal homeobox protein; retina and anterior
+                     neural fold homeobox-like protein 1"
+                     /db_xref="GI:14249388"
+                     /db_xref="CCDS:CCDS12112.1"
+                     /db_xref="GeneID:84839"
+                     /db_xref="HGNC:18286"
+                     /db_xref="HPRD:17508"
+                     /db_xref="MIM:610362"
+                     /codon_start=1
+                     /product="retina and anterior neural fold homeobox
+                     protein 2"
+                     /translation="MFLSPGEGPATEGGGLGPGEEAPKKKHRRNRTTFTTYQLHQLER
+                     AFEASHYPDVYSREELAAKVHLPEVRVQVWFQNRRAKWRRQERLESGSGAVAAPRLPE
+                     APALPFARPPAMSLPLEPWLGPGPPAVPGLPRLLGPGPGLQASFGPHAFAPTFADGFA
+                     LEEASLRLLAKEHAQALDRAWPPA"
+     exon            285..2155
+                     /gene_synonym="ARMD6; CORD11; QRX; RAXL1"
+                     /number=3
+                     /inference="alignment:Splign"
+                     /gene="RAX2"
+     polyA_signal    2131..2136
+                     /gene_synonym="ARMD6; CORD11; QRX; RAXL1"
+                     /gene="RAX2"
+     polyA_site      2155
+                     /gene_synonym="ARMD6; CORD11; QRX; RAXL1"
+                     /gene="RAX2"
+ORIGIN      
+        1 gcgccaggcc cgctggggca ggtgtcccgt ggaaatcgac ggaggggctg ccgtgggcgg
+       61 tgggagccat gttcctgagc ccgggcgagg ggccggcaac cgagggtggg ggtctggggc
+      121 cgggcgagga ggcccccaag aagaagcacc ggaggaaccg caccaccttc accacctacc
+      181 agctgcacca gctggagcgg gcgttcgagg cctctcacta cccggatgtg tacagccgtg
+      241 aggagctggc agccaaggtg cacctacctg aggtgcgcgt gcaggtgtgg ttccagaacc
+      301 gccgggccaa gtggcgccgc caggagcggc tggagtcagg ctcgggtgcc gtggcagctc
+      361 cgagactccc cgaggcccca gcgctgccgt tcgcccgccc cccggccatg tcgctgcccc
+      421 tggagccctg gttgggcccc ggaccgccgg ccgtgccagg cctcccccgc ctcctgggcc
+      481 cgggcccggg gctgcaagcg tccttcgggc ctcatgcctt tgctcccacc ttcgcagatg
+      541 gcttcgccct ggaggaggcg tccctgcggc tgctggccaa ggaacatgca caggctctgg
+      601 acagggcctg gccgccagcc tgagcctgcc gccctcccgg gccccctcct cggcccaacc
+      661 cgagaaccgg ggacgtgccc tggtgacagc caccacgcct tggcctaggc cgaggtcatg
+      721 gagcaaccgt ggtcaggcca ggccaccacc actggggagc gggaccagag agacaggctg
+      781 ctgggttccc tgcccccatc ccgtctccca ccccatcgcc acccgtcctg ctggcagcgg
+      841 actggccccc agtgtcaggc aggaggtgac ccaagtattc tcaggccagg tgcggggacc
+      901 tcctcccctc ctggggcctc agtctcctgt ctgttaattg ggcgtggggg cctccgaggt
+      961 tcgagggctg cgaggctgtg ggtggcggga ccgctgactc tgtaagatga gtgtaaatct
+     1021 ctctgcttct cctaatcccc atcagcagag ctgcccactc tccaggctcc cagtcccctg
+     1081 gaaataacaa atagcagcag ctcccgcgag cctggtctcc tctcaccgtg tgctcgccat
+     1141 gtgagcactc ccctctccgt tgtgccctgg acctcgggca cagctgtcag cccattctat
+     1201 agagagggaa accggggctt aggcaggaag ccaggtcccc aaagtcgcac ggccaggagt
+     1261 ggatggagct gcctttcaga cccatcaccg gtcctaccgt ccggggcaca gcgacaggtt
+     1321 ctggagagag ggtgggtccc gggccaggtg ctggtgggcc tccaggtgga ggcgggctga
+     1381 tgctgggtgt gtcgtcatcg tcagaccgtt cctcacgtcc ccacagaccc caggccctgt
+     1441 gcatgtcccc agtggaggca tggccagcat ctgctctgtc caacccagcc gcatcgccca
+     1501 agagctctga gcaaggaggc tgtcgcgggg ccgagaaccc gctgggactg gcaagcacgg
+     1561 ctggcccagt gcagcaggag ggggccctga ggcatgggat gggacagtct gggccagcgc
+     1621 cacctcccgg gacagaagtg cggcaccagg gcaggagctg cagtagctac cctccccgtc
+     1681 tccagcctgg gctccccaga tcactcccag atcaccaggt caccccatct ctaggcggca
+     1741 cctcacacac cagtcctgtg gtccaacgcc ccgccatcac ccaatgtcac cgcacaccag
+     1801 gcagtgggga cacggcagta agcacaagaa agattttttt ttttaaagct aaaccaggcc
+     1861 aggtgcggtg gctcatgcct gtaatcccag tgctttggga ggctgaggtg ggaggattgc
+     1921 ttgagaccag cctgggtgac acagcaagac cccatctcca caaacgtttt taaaatgtgc
+     1981 cgggtgtact ggtgcacacc tgtcatccca gctacccaag aagctgaggc aagaggatca
+     2041 cttgagccca gaaggtcgag gctgcaggga gctgtgatca cactgctgca ctccagcctg
+     2101 tgcaacagag ccagaccctg actcaataca aataaaaaac aaatctaaaa caaaaaaaaa
+     2161 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+//

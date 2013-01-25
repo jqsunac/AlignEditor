@@ -1,0 +1,312 @@
+LOCUS       NM_004181               1141 bp    mRNA    linear   PRI 09-SEP-2012
+DEFINITION  Homo sapiens ubiquitin carboxyl-terminal esterase L1 (ubiquitin
+            thiolesterase) (UCHL1), mRNA.
+ACCESSION   NM_004181
+VERSION     NM_004181.4  GI:239835751
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1141)
+  AUTHORS   Tian,J.Y., Guo,J.F., Wang,L., Sun,Q.Y., Yao,L.Y., Luo,L.Z.,
+            Shi,C.H., Hu,Y.C., Yan,X.X. and Tang,B.S.
+  TITLE     Mutation analysis of LRRK2, SCNA, UCHL1, HtrA2 and GIGYF2 genes in
+            Chinese patients with autosomal dorminant Parkinson's disease
+  JOURNAL   Neurosci. Lett. 516 (2), 207-211 (2012)
+   PUBMED   22503729
+  REMARK    GeneRIF: Our result indicated that SCNA, LRRK2, UCHL1, HtrA2 and
+            GIGYF2 genes' mutations might not be a main reason for Chinese
+            Autosomal dorminant Parkinson's disease
+REFERENCE   2  (bases 1 to 1141)
+  AUTHORS   Mitsui,Y., Shiina,H., Hiraki,M., Arichi,N., Hiraoka,T., Sumura,M.,
+            Honda,S., Yasumoto,H. and Igawa,M.
+  TITLE     Tumor suppressor function of PGP9.5 is associated with epigenetic
+            regulation in prostate cancer--novel predictor of biochemical
+            recurrence after radical surgery
+  JOURNAL   Cancer Epidemiol. Biomarkers Prev. 21 (3), 487-496 (2012)
+   PUBMED   22246902
+  REMARK    GeneRIF: PGP9.5 downregulation of promoter CpG hypermethylation is
+            associated with prostate cancer.
+REFERENCE   3  (bases 1 to 1141)
+  AUTHORS   Xilouri,M., Kyratzi,E., Pitychoutis,P.M., Papadopoulou-Daifoti,Z.,
+            Perier,C., Vila,M., Maniati,M., Ulusoy,A., Kirik,D., Park,D.S.,
+            Wada,K. and Stefanis,L.
+  TITLE     Selective neuroprotective effects of the S18Y polymorphic variant
+            of UCH-L1 in the dopaminergic system
+  JOURNAL   Hum. Mol. Genet. 21 (4), 874-889 (2012)
+   PUBMED   22076440
+  REMARK    GeneRIF: data provide evidence for an antioxidant and
+            neuroprotective effect of the S18Y variant of UCH-L1, but not of
+            the WT protein, in the dopaminergic system, and may have
+            implications for the pathogenesis of PD or related
+            neurodegenerative conditions, in w...
+REFERENCE   4  (bases 1 to 1141)
+  AUTHORS   Chu,K.Y., Li,H., Wada,K. and Johnson,J.D.
+  TITLE     Ubiquitin C-terminal hydrolase L1 is required for pancreatic beta
+            cell survival and function in lipotoxic conditions
+  JOURNAL   Diabetologia 55 (1), 128-140 (2012)
+   PUBMED   22038515
+  REMARK    GeneRIF: Data suggest that UCHL1 has functional roles (i.e.,
+            involved in insulin secretion, in ubiquitination, and as brake on
+            cell proliferation) and anti-apoptotic role in pancreatic beta
+            cells under endoplasmic reticulum stress caused by palmitic acid.
+REFERENCE   5  (bases 1 to 1141)
+  AUTHORS   Xiang,T., Li,L., Yin,X., Yuan,C., Tan,C., Su,X., Xiong,L.,
+            Putti,T.C., Oberst,M., Kelly,K., Ren,G. and Tao,Q.
+  TITLE     The ubiquitin peptidase UCHL1 induces G0/G1 cell cycle arrest and
+            apoptosis through stabilizing p53 and is frequently silenced in
+            breast cancer
+  JOURNAL   PLoS ONE 7 (1), E29783 (2012)
+   PUBMED   22279545
+  REMARK    GeneRIF: Data suggest that UCHL1 promoter CpG methylation may
+            serve as a potential tumor marker for breast cancer.
+REFERENCE   6  (bases 1 to 1141)
+  AUTHORS   Rasmussen,H.H., van Damme,J., Puype,M., Gesser,B., Celis,J.E. and
+            Vandekerckhove,J.
+  TITLE     Microsequences of 145 proteins recorded in the two-dimensional gel
+            protein database of normal human epidermal keratinocytes
+  JOURNAL   Electrophoresis 13 (12), 960-969 (1992)
+   PUBMED   1286667
+REFERENCE   7  (bases 1 to 1141)
+  AUTHORS   Edwards,Y.H., Fox,M.F., Povey,S., Hinks,L.J., Thompson,R.J. and
+            Day,I.N.
+  TITLE     The gene for human neurone specific ubiquitin C-terminal hydrolase
+            (UCHL1, PGP9.5) maps to chromosome 4p14
+  JOURNAL   Ann. Hum. Genet. 55 (PT 4), 273-278 (1991)
+   PUBMED   1840236
+REFERENCE   8  (bases 1 to 1141)
+  AUTHORS   Honore,B., Rasmussen,H.H., Vandekerckhove,J. and Celis,J.E.
+  TITLE     Neuronal protein gene product 9.5 (IEF SSP 6104) is expressed in
+            cultured human MRC-5 fibroblasts of normal origin and is strongly
+            down-regulated in their SV40 transformed counterparts
+  JOURNAL   FEBS Lett. 280 (2), 235-240 (1991)
+   PUBMED   1849484
+REFERENCE   9  (bases 1 to 1141)
+  AUTHORS   Day,I.N., Hinks,L.J. and Thompson,R.J.
+  TITLE     The structure of the human gene encoding protein gene product 9.5
+            (PGP9.5), a neuron-specific ubiquitin C-terminal hydrolase
+  JOURNAL   Biochem. J. 268 (2), 521-524 (1990)
+   PUBMED   2163617
+REFERENCE   10  (bases 1 to 1141)
+  AUTHORS   Day,I.N. and Thompson,R.J.
+  TITLE     Molecular cloning of cDNA coding for human PGP 9.5 protein. A
+            novel cytoplasmic marker for neurones and neuroendocrine cells
+  JOURNAL   FEBS Lett. 210 (2), 157-160 (1987)
+   PUBMED   2947814
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BP202166.1 and BC000332.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jun 12, 2009 this sequence version replaced gi:34147658.
+            Summary: The protein encoded by this gene belongs to the peptidase
+            C12 family. This enzyme is a thiol protease that hydrolyzes a
+            peptide bond at the C-terminal glycine of ubiquitin. This gene is
+            specifically expressed in the neurons and in cells of the diffuse
+            neuroendocrine system. Mutations in this gene may be associated
+            with Parkinson disease.[provided by RefSeq, Sep 2009]. Publication
+            Note: This RefSeq record includes a subset of the publications
+            that are available for this gene. Please see the Gene record to
+            access additional publications. ##RefSeq-Attributes-START##
+            Transcript_exon_combination_evidence :: BC000332.2, BC006305.2
+            [ECO:0000332] ##RefSeq-Attributes-END## COMPLETENESS: complete on
+            the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1141
+                     /mol_type="mRNA"
+                     /map="4p14"
+                     /db_xref="taxon:9606"
+                     /chromosome="4"
+                     /organism="Homo sapiens"
+     gene            1..1141
+                     /db_xref="GeneID:7345"
+                     /db_xref="HGNC:12513"
+                     /db_xref="HPRD:01877"
+                     /db_xref="MIM:191342"
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /gene="UCHL1"
+                     /note="ubiquitin carboxyl-terminal esterase L1 (ubiquitin
+                     thiolesterase)"
+     exon            1..129
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /number=1
+                     /inference="alignment:Splign"
+                     /gene="UCHL1"
+     misc_feature    67..69
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /gene="UCHL1"
+                     /note="upstream in-frame stop codon"
+     CDS             97..768
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /protein_id="NP_004172.2"
+                     /gene="UCHL1"
+                     /note="neuron cytoplasmic protein 9.5; ubiquitin
+                     C-terminal hydrolase; ubiquitin thioesterase L1"
+                     /db_xref="GI:21361091"
+                     /db_xref="CCDS:CCDS3462.1"
+                     /db_xref="GeneID:7345"
+                     /db_xref="HGNC:12513"
+                     /db_xref="HPRD:01877"
+                     /db_xref="MIM:191342"
+                     /codon_start=1
+                     /product="ubiquitin carboxyl-terminal hydrolase isozyme
+                     L1"
+                     /translation="MQLKPMEINPEMLNKVLSRLGVAGQWRFVDVLGLEEESLGSVPA
+                     PACALLLLFPLTAQHENFRKKQIEELKGQEVSPKVYFMKQTIGNSCGTIGLIHAVANN
+                     QDKLGFEDGSVLKQFLSETEKMSPEDRAKCFEKNEAIQAAHDAVAQEGQCRVDDKVNF
+                     HFILFNNVDGHLYELDGRMPFPVNHGASSEDTLLKDAAKVCREFTEREQGEVRFSAVA
+                     LCKAA"
+                     /EC_number="3.4.19.12"
+     misc_feature    97..99
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="N-acetylmethionine; propagated from
+                     UniProtKB/Swiss-Prot (P09936.2); acetylation site"
+     misc_feature    97..99
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="Susceptible to oxidation; propagated from
+                     UniProtKB/Swiss-Prot (P09936.2); other site"
+     misc_feature    109..126
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P09936.2);
+                     Region: Interaction with ubiquitin"
+     misc_feature    112..114
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="Susceptible to oxidation; propagated from
+                     UniProtKB/Swiss-Prot (P09936.2); other site"
+     misc_feature    130..132
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="Susceptible to oxidation; propagated from
+                     UniProtKB/Swiss-Prot (P09936.2); other site"
+     misc_feature    466..468
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="Susceptible to oxidation; propagated from
+                     UniProtKB/Swiss-Prot (P09936.2); other site"
+     misc_feature    622..624
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="Important for enzyme activity; propagated from
+                     UniProtKB/Swiss-Prot (P09936.2); other site"
+     misc_feature    631..633
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="Susceptible to oxidation; propagated from
+                     UniProtKB/Swiss-Prot (P09936.2); other site"
+     misc_feature    727..744
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P09936.2);
+                     Region: Interaction with ubiquitin"
+     misc_feature    754..756
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /gene="UCHL1"
+                     /note="Susceptible to oxidation; propagated from
+                     UniProtKB/Swiss-Prot (P09936.2); other site"
+     STS             119..708
+                     /db_xref="UniSTS:516647"
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /gene="UCHL1"
+                     /standard_name="Uchl1"
+     exon            130..141
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /number=2
+                     /inference="alignment:Splign"
+                     /gene="UCHL1"
+     exon            142..270
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /number=3
+                     /inference="alignment:Splign"
+                     /gene="UCHL1"
+     exon            271..421
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /number=4
+                     /inference="alignment:Splign"
+                     /gene="UCHL1"
+     exon            422..507
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /number=5
+                     /inference="alignment:Splign"
+                     /gene="UCHL1"
+     exon            508..555
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /number=6
+                     /inference="alignment:Splign"
+                     /gene="UCHL1"
+     exon            556..622
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /number=7
+                     /inference="alignment:Splign"
+                     /gene="UCHL1"
+     exon            623..681
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /number=8
+                     /inference="alignment:Splign"
+                     /gene="UCHL1"
+     exon            682..1124
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /number=9
+                     /inference="alignment:Splign"
+                     /gene="UCHL1"
+     STS             765..993
+                     /db_xref="UniSTS:35595"
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /gene="UCHL1"
+                     /standard_name="SHGC-59749"
+     STS             861..994
+                     /db_xref="UniSTS:53769"
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /gene="UCHL1"
+                     /standard_name="SHGC-67809"
+     polyA_signal    1099..1104
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /gene="UCHL1"
+     polyA_site      1124
+                     /gene_synonym="PARK5; PGP 9.5; PGP9.5; PGP95; Uch-L1"
+                     /gene="UCHL1"
+ORIGIN      
+        1 agtgcgtctg gccggcgctt tatagctgca gcctgggcgg ctccgctagc tgtttttcgt
+       61 cttccctagg ctatttctgc cgggcgctcc gcgaagatgc agctcaagcc gatggagatc
+      121 aaccccgaga tgctgaacaa agtgctgtcc cggctggggg tcgccggcca gtggcgcttc
+      181 gtggacgtgc tggggctgga agaggagtct ctgggctcgg tgccagcgcc tgcctgcgcg
+      241 ctgctgctgc tgtttcccct cacggcccag catgagaact tcaggaaaaa gcagattgaa
+      301 gagctgaagg gacaagaagt tagtcctaaa gtgtacttca tgaagcagac cattgggaat
+      361 tcctgtggca caatcggact tattcacgca gtggccaata atcaagacaa actgggattt
+      421 gaggatggat cagttctgaa acagtttctt tctgaaacag agaaaatgtc ccctgaagac
+      481 agagcaaaat gctttgaaaa gaatgaggcc atacaggcag cccatgatgc cgtggcacag
+      541 gaaggccaat gtcgggtaga tgacaaggtg aatttccatt ttattctgtt taacaacgtg
+      601 gatggccacc tctatgaact tgatggacga atgccttttc cggtgaacca tggcgccagt
+      661 tcagaggaca ccctgctgaa ggacgctgcc aaggtctgca gagaattcac cgagcgtgag
+      721 caaggagaag tccgcttctc tgccgtggct ctctgcaagg cagcctaatg ctctgtggga
+      781 gggactttgc tgatttcccc tcttcccttc aacatgaaaa tatatacccc cccatgcagt
+      841 ctaaaatgct tcagtacttg tgaaacacag ctgttcttct gttctgcaga cacgccttcc
+      901 cctcagccac acccaggcac ttaagcacaa gcagagtgca cagctgtcca ctgggccatt
+      961 gtggtgtgag cttcagatgg tgaagcattc tccccagtgt atgtcttgta tccgatatct
+     1021 aacgctttaa atggctactt tggtttctgt ctgtaagtta agaccttgga tgtggtttaa
+     1081 ttgtttgtcc tcaaaaggaa taaaactttt ctgctgataa gataaaaaaa aaaaaaaaaa
+     1141 a
+//

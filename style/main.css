@@ -1,0 +1,87 @@
+body {
+	margin:0;
+	padding:0;
+	color:#333333;
+	font:16px "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,Osaka,"ＭＳ Ｐゴシック","MS PGothic",Helvetica,Arial,Sans-Serif
+}
+
+h2 {
+	margin: 1.5em 0 0.6em 0;
+	padding-bottom:3px;
+	font-size: 1.5em;
+	border-bottom: 1px solid #d1d9dc;
+}
+
+p{margin: 5px 0;}
+
+input {
+	border: 1px solid #666666;
+	padding: 3px;
+}
+.seq {
+	font-family:monospace;
+	width: 100%;
+}
+.button {
+	padding: 5px 20px;
+	font-size: 1.2em;
+}
+
+#pageTitle {
+	margin-top: 50px;
+	font-size: 3em;
+}
+#canvas{margin:0;padding:0;min-width:1000px;min-height:500px;}
+#content{margin:0 40px;padding:0}
+#content:after{content:".";display:block;clear:both;height:0;visibility:hidden}
+#subCol{margin:0;padding:0;width:300px;float:left;}
+#mainCol{margin:0 0 0 320px;padding:0}
+#mainNav{
+	margin:0;
+	padding:0.5em 0 0.5em 45px;
+	height:1em;
+	width:100%;
+	background-color:rgba(0,0,0,0.85);
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:10;
+	font-weight: bold;
+	font-size:1em;
+}
+#mainNav ul{margin:0;padding:0;height:100%}
+#mainNav li{display:block;margin:0;padding-right:2em;float:left;}
+#mainNav a{color: #ffffff;}
+
+#nodesTable {
+	width:100%;
+}
+#nodesTable .nodesIdx {width:50px;}
+#nodesTable .nodesType {width:50px}
+#nodesTable .nodesDesc {width:50px}
+.nodesSeparate {background-color: #dddddd;font-size:3px;border:1px solid #dddddd;}
+
+#editButton {background-color: #f39800; font-weight:bold;}
+#clearButton {background-color: #d8e698; font-weight:bold;}
+#resetButton {background-color: #4d5aaf; font-weight:bold;}
+
+a{color:#0080c0}
+a:hover{color:#f20c00}
+a.this{color:#f20c00}
+a image{border:none}
+
+ul {margin: 0 0 0 2em;padding: 0 0 0 0;list-style-position:outside; } 
+
+#subCol ul {margin: 0 ;padding: 0 0 0 0;list-style-position:outside; } 
+#subCol li {width:160px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; -webkit-text-overflow:ellipsis;}
+
+
+pre {border: 1px solid #666666; padding:5px;font-family:monospace;}
+
+#pageFooter {margin:3em 0;text-align:center;}
+
+.genelist {
+	margin: 3em 0;
+}
+.genelist a{margin: 1em;}
+
