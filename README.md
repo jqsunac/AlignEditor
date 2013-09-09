@@ -1,11 +1,7 @@
 <h1>XIQIAO MING</h1>
 
-<h2>Demo</h2>
-<p>Demo page.</p>
-<p><a href="http://app.livedocs.net/xiqiao/ming/index.pl">http://app.livedocs.net/xiqiao/ming/index.pl</a></p>
-
 <h2>Usage</h2>
-<p>Download all files into the directory can use CGI (.pl extension).</p>
+<p>Download all files into a directory, and start browser to access index.pl.</p>
 <pre>
 ming/
   |--- index.pl
