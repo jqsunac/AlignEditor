@@ -1,22 +1,9 @@
-<h1>XIQIAO MING</h1>
+# AlignEditor
 
-<h2>Usage</h2>
-<p>Download all files into a directory, and start browser to access index.pl.</p>
-<pre>
-ming/
-  |--- index.pl
-  |--- gene.pl
-  |--- mapping.pl
-  |--- setting.pl
-  |--- usage.pl
-  |--- CONFIG
-  |--- lib/
-  |--- GENE/
-  |--- script/
-  |--- style/
-  |--- template/
-</pre>
+AlignEditorはest2genomeの結果を編集するためのツールです。est2genomeは、ESTをゲノムへマッピングして、
+エキソンとイントロンを予測するプログラムです。イントロンの予測にはGT-AG則を利用します。
+GT-AG則に従わないイントロンも、無理にGT-AG則に合わせようとします。
+これが原因で、エキソンとイントロンの接続点の周りに、不自然なギャップが挿入されます。
+AlignEditorは、こうした不自然のギャップを簡単に編集できるようにします。
 
-<p>Then edit CONFIG file.</p>
-
-
+CONFIG ファイルに書かれているパスをうまく調整すれば動く（と思う）。
